@@ -12,55 +12,48 @@
 
 ---
 
-# High-Level Security and Compliance Requirements Gathering
-
 ## 1. Lock Down Ports and Network Security
-- **Prompts**:
-  - Which ports are essential for application traffic and which can be closed or restricted?
-  - How will Network Security Groups (NSGs) or Security Groups be configured to enforce least-privileged access?
-  - Are there specific firewall rules or IP whitelists that need to be considered?
+- [ ] Identify which ports are essential for application traffic
+- [ ] Configure Network Security Groups (NSGs) or Security Groups for least-privileged access
+- [ ] Document firewall rules and IP whitelists
+- Which ports can be closed or restricted?
+- Are there specific firewall rules that need to be considered?
 
 ## 2. Data Encryption (At Rest and In Transit)
-- **Prompts**:
-  - What encryption mechanisms will be used for data at rest (e.g., KMS, Azure Key Vault, Cloud KMS)?
-  - Which protocols (TLS/SSL) and certificates will secure data in transit?
-  - How will key management and rotation policies be handled?
+- [ ] Select encryption mechanisms for data at rest (KMS, Azure Key Vault, Cloud KMS)
+- [ ] Configure protocols (TLS/SSL) and certificates for data in transit
+- [ ] Define key management and rotation policies
+- What encryption standards are required for compliance?
 
 ## 3. Logging and Monitoring for Compliance
-- **Prompts**:
-  - Which compliance frameworks (e.g., PCI-DSS, HIPAA, GDPR) apply?
-  - What tools or services (e.g., AWS CloudTrail, Azure Monitor, GCP Cloud Logging) will be used for logging?
-  - How frequently should logs be reviewed and what are the retention requirements?
-  - Who will have access to audit logs?
+- [ ] Identify which compliance frameworks apply (PCI-DSS, HIPAA, GDPR)
+- [ ] Select logging tools or services (AWS CloudTrail, Azure Monitor, GCP Cloud Logging)
+- [ ] Define log review frequency and retention requirements
+- Who will have access to audit logs?
 
 ## 4. Zero Trust Principles
 
 ### 4.1 Enforce MFA and Strong Identity Verification
-- **Prompts**:
-  - Which identity provider (IAM, SSO, or other) will manage authentication?
-  - Will conditional access policies be required for different user roles?
-  - How will MFA be enforced (e.g., SMS, Authenticator apps, hardware tokens)?
+- [ ] Select identity provider (IAM, SSO, or other) for authentication
+- [ ] Configure conditional access policies for different user roles
+- [ ] Implement MFA (SMS, Authenticator apps, hardware tokens)
 
 ### 4.2 Use Short-Lived Credentials/Tokens
-- **Prompts**:
-  - Which authentication protocols (STS, OAuth2, etc.) are in scope?
-  - How frequently should token rotation occur?
-  - Will there be an automated mechanism for credential expiration?
+- [ ] Select authentication protocols (STS, OAuth2, etc.)
+- [ ] Define token rotation frequency
+- [ ] Implement automated mechanism for credential expiration
 
-### 4.3 Internal Traffic Inspection (East-West) 
-- **Prompts**:
-  - Which internal traffic paths or microservices need inspection?
-  - What tools or methods (e.g., service mesh, deep packet inspection) will be used for internal traffic monitoring?
-  - What performance impacts are acceptable for deeper inspection?
+### 4.3 Internal Traffic Inspection (East-West)
+- [ ] Identify internal traffic paths or microservices that need inspection
+- [ ] Select tools or methods for internal traffic monitoring (service mesh, deep packet inspection)
+- What performance impacts are acceptable for deeper inspection?
 
 ### 4.4 Integrate Policy Enforcement
-- **Prompts**:
-  - How will AWS Verified Access, Azure Private Link, or BeyondCorp principles be integrated?
-  - Where do policies reside (in code, in a centralized manager, etc.)?
-  - How will exceptions to policies be handled and documented?
+- [ ] Plan integration of AWS Verified Access, Azure Private Link, or BeyondCorp principles
+- [ ] Determine where policies reside (in code, centralized manager, etc.)
+- How will exceptions to policies be handled and documented?
 
 ### 4.5 Continuous Monitoring and Risk-Based Access
-- **Prompts**:
-  - Which metrics or events trigger automatic policy adjustments?
-  - How is anomalous behavior detected and managed in real-time?
-  - Which teams need alerts and escalation paths when a threat is identified?
+- [ ] Define metrics or events that trigger automatic policy adjustments
+- [ ] Implement anomalous behavior detection and real-time management
+- [ ] Configure alerts and escalation paths for identified threats
