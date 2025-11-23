@@ -1,5 +1,17 @@
 # Networking and Load Balancing Requirements Gathering
 
+> **Navigation:** [Home](README.md) | Previous: [Database & Storage Planning](6-database-and-storage-planning.md) | Next: [Security & Compliance Planning](8-security-and-compliance-planning.md)
+>
+> **Prerequisites:** Complete [Infrastructure Guidelines](4-infrastructure-guidelines.md) (VPC/subnet configuration)
+>
+> **Related Documents:**
+> - [Infrastructure Guidelines](4-infrastructure-guidelines.md) - VPC and subnet foundation
+> - [Compute Selection](5-compute-selection.md) - Load balancer targets
+> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Network security rules
+> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Auto-scaling thresholds
+
+---
+
 ## Load Balancers
 
 ### Load Balancer Type

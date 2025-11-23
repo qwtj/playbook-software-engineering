@@ -1,5 +1,16 @@
 # Project Structure Requirements Gathering
 
+> **Navigation:** [Home](README.md) | Previous: [Architecture Planning](2-architecture_planning.md) | Next: [Infrastructure Guidelines](4-infrastructure-guidelines.md)
+>
+> **Prerequisites:** Complete [Architecture Planning](2-architecture_planning.md) first
+>
+> **Related Documents:**
+> - [Architecture Planning](2-architecture_planning.md) - High-level decisions affecting structure
+> - [CI/CD Planning](10-cicd-planning.md) - Pipeline integration with project structure
+> - [Infrastructure Guidelines](4-infrastructure-guidelines.md) - IaC implementation details
+
+---
+
 ## Directory Layout for Source Code
 ### Purpose
 - What languages or frameworks must be supported?

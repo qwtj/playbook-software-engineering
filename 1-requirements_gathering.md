@@ -1,5 +1,17 @@
 # Requirements Gathering Document
 
+> **Navigation:** [Home](README.md) | Next: [Architecture Planning](2-architecture_planning.md)
+>
+> **Prerequisites:** None - this is the starting document
+>
+> **Related Documents:**
+> - [Architecture Planning](2-architecture_planning.md) - Expands on deployment and architecture decisions
+> - [Database & Storage Planning](6-database-and-storage-planning.md) - Details database requirements
+> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Details security requirements
+> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Details performance requirements
+
+---
+
 ## 1. Application Functionality and User Experience
 ### 1.1 Core Features
 - What are the primary functions or tasks the application must perform?

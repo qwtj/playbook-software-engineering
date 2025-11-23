@@ -1,3 +1,17 @@
+# CI/CD Planning
+
+> **Navigation:** [Home](README.md) | Previous: [Observability Stack Planning](9-observability-stack-planning.md) | Next: [Performance & Optimization](11-performance-and-optimization-planning.md)
+>
+> **Prerequisites:** Complete [Project Structure Planning](3-project_structure_planning.md) and [Compute Selection](5-compute-selection.md)
+>
+> **Related Documents:**
+> - [Project Structure Planning](3-project_structure_planning.md) - Repository and IaC structure
+> - [Compute Selection](5-compute-selection.md) - Deployment targets
+> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Security scanning requirements
+> - [Observability Stack Planning](9-observability-stack-planning.md) - Pipeline monitoring
+
+---
+
 # CI/CD High-Level Requirements Gathering Document
 
 ## 1. Overview & Objectives

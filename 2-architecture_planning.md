@@ -1,3 +1,17 @@
+# Architecture Planning
+
+> **Navigation:** [Home](README.md) | Previous: [Requirements Gathering](1-requirements_gathering.md) | Next: [Project Structure Planning](3-project_structure_planning.md)
+>
+> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) first
+>
+> **Related Documents:**
+> - [Requirements Gathering](1-requirements_gathering.md) - Initial functional requirements informing architecture
+> - [Infrastructure Guidelines](4-infrastructure-guidelines.md) - Implements architecture decisions
+> - [Compute Selection](5-compute-selection.md) - Serverless vs compute decisions
+> - [Networking & Load Balancing](7-networking-and-load-balancing.md) - Multi-region implementation
+
+---
+
 # High-Level Requirements Gathering
 
 ## 1. Project Overview
