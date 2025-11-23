@@ -1,3 +1,17 @@
+# Database and Storage Planning
+
+> **Navigation:** [Home](README.md) | Previous: [Compute Selection](5-compute-selection.md) | Next: [Networking & Load Balancing](7-networking-and-load-balancing.md)
+>
+> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) (section 3 Database) and [Architecture Planning](2-architecture_planning.md)
+>
+> **Related Documents:**
+> - [Requirements Gathering](1-requirements_gathering.md) - Initial database requirements
+> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Data encryption requirements
+> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Storage throughput and caching
+> - [Final Validations](12-final-validations.md) - Data validation checks
+
+---
+
 ## 6. Storage and Database
 
 ### 6.1 Data Characteristics

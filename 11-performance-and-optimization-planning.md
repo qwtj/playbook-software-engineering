@@ -1,3 +1,17 @@
+# Performance and Optimization Planning
+
+> **Navigation:** [Home](README.md) | Previous: [CI/CD Planning](10-cicd-planning.md) | Next: [Final Validations](12-final-validations.md)
+>
+> **Prerequisites:** Complete [Compute Selection](5-compute-selection.md) and [Database & Storage Planning](6-database-and-storage-planning.md)
+>
+> **Related Documents:**
+> - [Requirements Gathering](1-requirements_gathering.md) - Initial performance requirements
+> - [Compute Selection](5-compute-selection.md) - Compute sizing foundations
+> - [Database & Storage Planning](6-database-and-storage-planning.md) - Storage throughput requirements
+> - [Observability Stack Planning](9-observability-stack-planning.md) - Performance metrics and dashboards
+
+---
+
 # Performance Testing and Optimization Requirements
 
 ## 1. Introduction

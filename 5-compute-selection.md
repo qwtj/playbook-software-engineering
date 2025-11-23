@@ -1,3 +1,17 @@
+# Compute Selection
+
+> **Navigation:** [Home](README.md) | Previous: [Infrastructure Guidelines](4-infrastructure-guidelines.md) | Next: [Database & Storage Planning](6-database-and-storage-planning.md)
+>
+> **Prerequisites:** Complete [Architecture Planning](2-architecture_planning.md) (section 2.2 Serverless vs Compute)
+>
+> **Related Documents:**
+> - [Architecture Planning](2-architecture_planning.md) - High-level compute architecture decisions
+> - [Infrastructure Guidelines](4-infrastructure-guidelines.md) - VPC and networking context
+> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Compute sizing and scaling
+> - [CI/CD Planning](10-cicd-planning.md) - Deployment target configuration
+
+---
+
 ## 1. Project Context
 - [Prompt] What is the overall goal or purpose of the project?
 - [Prompt] Any business or technical constraints?

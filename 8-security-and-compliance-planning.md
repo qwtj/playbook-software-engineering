@@ -1,3 +1,17 @@
+# Security and Compliance Planning
+
+> **Navigation:** [Home](README.md) | Previous: [Networking & Load Balancing](7-networking-and-load-balancing.md) | Next: [Observability Stack Planning](9-observability-stack-planning.md)
+>
+> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) (section 4 Security) and [Infrastructure Guidelines](4-infrastructure-guidelines.md)
+>
+> **Related Documents:**
+> - [Requirements Gathering](1-requirements_gathering.md) - Initial security and compliance requirements
+> - [Infrastructure Guidelines](4-infrastructure-guidelines.md) - IAM and security considerations
+> - [Observability Stack Planning](9-observability-stack-planning.md) - Security monitoring and logging
+> - [Final Validations](12-final-validations.md) - Security and compliance validation
+
+---
+
 # High-Level Security and Compliance Requirements Gathering
 
 ## 1. Lock Down Ports and Network Security

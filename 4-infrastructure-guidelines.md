@@ -1,3 +1,17 @@
+# Infrastructure Guidelines
+
+> **Navigation:** [Home](README.md) | Previous: [Project Structure Planning](3-project_structure_planning.md) | Next: [Compute Selection](5-compute-selection.md)
+>
+> **Prerequisites:** Complete [Architecture Planning](2-architecture_planning.md) and [Project Structure Planning](3-project_structure_planning.md)
+>
+> **Related Documents:**
+> - [Compute Selection](5-compute-selection.md) - Detailed compute platform decisions
+> - [Networking & Load Balancing](7-networking-and-load-balancing.md) - Network implementation
+> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Security implementation
+> - [Observability Stack Planning](9-observability-stack-planning.md) - Monitoring implementation
+
+---
+
 ## 1. Project Overview
 - Describe the overall purpose of the project.
 - Define success criteria and expected outcomes.
