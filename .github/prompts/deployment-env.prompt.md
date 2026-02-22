@@ -1,8 +1,8 @@
 ---
 name: deployment-env
 description: Jump to Section 2.1 Environment Approach questions
-agent: deployment-strategy
-tools: ['search', 'fetch', 'read']
+agent: Deployment Strategy
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **2.1 Environment Approach** from the deployment strategy playbook.

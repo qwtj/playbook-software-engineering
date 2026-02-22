@@ -1,8 +1,8 @@
 ---
 name: additional-timeline
 description: Jump to Section 6.3 Timeline and Deadlines questions
-agent: additional-considerations
-tools: ['search', 'fetch', 'read']
+agent: Additional Considerations
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **6.3 Timeline and Deadlines** from the additional considerations playbook.

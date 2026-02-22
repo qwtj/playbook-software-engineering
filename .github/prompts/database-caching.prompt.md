@@ -1,8 +1,8 @@
 ---
 name: database-caching
 description: Jump to Section 3.2 Caching questions
-agent: database-data-management
-tools: ['search', 'fetch', 'read']
+agent: Database & Data Management
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **3.2 Caching** from the database and data management playbook.

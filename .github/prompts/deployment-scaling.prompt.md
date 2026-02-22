@@ -1,8 +1,8 @@
 ---
 name: deployment-scaling
 description: Jump to Section 2.2 Infrastructure and Scaling questions
-agent: deployment-strategy
-tools: ['search', 'fetch', 'read']
+agent: Deployment Strategy
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **2.2 Infrastructure and Scaling** from the deployment strategy playbook.

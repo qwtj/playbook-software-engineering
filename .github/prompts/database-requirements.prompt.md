@@ -1,8 +1,8 @@
 ---
 name: database-requirements
 description: Jump to Section 3.1 Database Requirements questions
-agent: database-data-management
-tools: ['search', 'fetch', 'read']
+agent: Database & Data Management
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **3.1 Database Requirements** from the database and data management playbook.

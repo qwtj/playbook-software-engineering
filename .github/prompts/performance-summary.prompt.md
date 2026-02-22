@@ -1,8 +1,8 @@
 ---
 name: performance-summary
 description: Request a consolidated summary of performance and monitoring gathered so far
-agent: performance-monitoring
-tools: ['search', 'read']
+agent: Performance & Monitoring
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Please provide a **consolidated summary** of the performance and monitoring requirements we've gathered.

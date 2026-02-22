@@ -1,8 +1,8 @@
 ---
 name: database-start
 description: Start interactive database and data management gathering for Section 3 (Database, Caching, Messaging)
-agent: database-data-management
-tools: ['search', 'fetch', 'read']
+agent: Database & Data Management
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Start an interactive database and data management session for the application we're building.

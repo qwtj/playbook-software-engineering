@@ -1,8 +1,8 @@
 ---
 name: database-summary
 description: Request a consolidated summary of database and data management gathered so far
-agent: database-data-management
-tools: ['search', 'read']
+agent: Database & Data Management
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Please provide a **consolidated summary** of the database and data management requirements we've gathered.

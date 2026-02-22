@@ -1,8 +1,8 @@
 ---
 name: requirements-core
 description: Jump to Section 1.1 Core Features questions
-agent: requirements-gathering
-tools: ['search', 'fetch', 'read']
+agent: Requirements Gathering
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **1.1 Core Features** from the requirements playbook.

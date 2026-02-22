@@ -1,8 +1,8 @@
 ---
 name: security-start
 description: Start interactive security and compliance gathering for Section 4 (Auth, Regulatory, Encryption)
-agent: security-compliance
-tools: ['search', 'fetch', 'read']
+agent: Security & Compliance
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Start an interactive security and compliance session for the application we're building.

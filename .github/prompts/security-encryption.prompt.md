@@ -1,8 +1,8 @@
 ---
 name: security-encryption
 description: Jump to Section 4.3 Data Encryption questions
-agent: security-compliance
-tools: ['search', 'fetch', 'read']
+agent: Security & Compliance
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **4.3 Data Encryption** from the security and compliance playbook.

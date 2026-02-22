@@ -1,8 +1,8 @@
 ---
 name: requirements-summary
 description: Request a consolidated summary of requirements gathered so far
-agent: requirements-gathering
-tools: ['search', 'read']
+agent: Requirements Gathering
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Please provide a **consolidated summary** of the application functionality and UX requirements we've gathered.

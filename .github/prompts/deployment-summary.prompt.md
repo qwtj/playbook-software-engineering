@@ -1,8 +1,8 @@
 ---
 name: deployment-summary
 description: Request a consolidated summary of deployment strategy gathered so far
-agent: deployment-strategy
-tools: ['search', 'read']
+agent: Deployment Strategy
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Please provide a **consolidated summary** of the deployment strategy we've gathered.

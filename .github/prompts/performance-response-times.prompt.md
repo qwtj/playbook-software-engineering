@@ -1,8 +1,8 @@
 ---
 name: performance-response-times
 description: Jump to Section 5.1 Response Times and Throughput questions
-agent: performance-monitoring
-tools: ['search', 'fetch', 'read']
+agent: Performance & Monitoring
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **5.1 Response Times and Throughput** from the performance and monitoring playbook.

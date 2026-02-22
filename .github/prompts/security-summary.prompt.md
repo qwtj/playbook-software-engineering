@@ -1,8 +1,8 @@
 ---
 name: security-summary
 description: Request a consolidated summary of security and compliance gathered so far
-agent: security-compliance
-tools: ['search', 'read']
+agent: Security & Compliance
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Please provide a **consolidated summary** of the security and compliance requirements we've gathered.

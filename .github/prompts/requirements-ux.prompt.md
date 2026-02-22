@@ -1,8 +1,8 @@
 ---
 name: requirements-ux
 description: Jump to Section 1.3 UX/UI Considerations questions
-agent: requirements-gathering
-tools: ['search', 'fetch', 'read']
+agent: Requirements Gathering
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **1.3 UX/UI Considerations** from the requirements playbook.

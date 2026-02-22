@@ -1,8 +1,8 @@
 ---
 name: additional-risks
 description: Jump to Section 6.2 Risks and Dependencies questions
-agent: additional-considerations
-tools: ['search', 'fetch', 'read']
+agent: Additional Considerations
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **6.2 Risks and Dependencies** from the additional considerations playbook.

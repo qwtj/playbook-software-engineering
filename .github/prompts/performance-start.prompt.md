@@ -1,8 +1,8 @@
 ---
 name: performance-start
 description: Start interactive performance and monitoring gathering for Section 5 (Response Times, Metrics, Alerting)
-agent: performance-monitoring
-tools: ['search', 'fetch', 'read']
+agent: Performance & Monitoring
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Start an interactive performance and monitoring session for the application we're building.

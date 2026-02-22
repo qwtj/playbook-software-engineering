@@ -1,8 +1,8 @@
 ---
 name: security-compliance
 description: Jump to Section 4.2 Regulatory and Compliance questions
-agent: security-compliance
-tools: ['search', 'fetch', 'read']
+agent: Security & Compliance
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **4.2 Regulatory and Compliance** from the security and compliance playbook.

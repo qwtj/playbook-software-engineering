@@ -1,8 +1,8 @@
 ---
 name: database-messaging
 description: Jump to Section 3.3 Messaging and Integration questions
-agent: database-data-management
-tools: ['search', 'fetch', 'read']
+agent: Database & Data Management
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **3.3 Messaging and Integration** from the database and data management playbook.

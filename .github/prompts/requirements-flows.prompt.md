@@ -1,8 +1,8 @@
 ---
 name: requirements-flows
 description: Jump to Section 1.2 User Flows questions
-agent: requirements-gathering
-tools: ['search', 'fetch', 'read']
+agent: Requirements Gathering
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **1.2 User Flows** from the requirements playbook.

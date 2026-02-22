@@ -1,8 +1,8 @@
 ---
 name: additional-third-party
 description: Jump to Section 6.1 Third-party Tools and Services questions
-agent: additional-considerations
-tools: ['search', 'fetch', 'read']
+agent: Additional Considerations
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **6.1 Third-party Tools and Services** from the additional considerations playbook.

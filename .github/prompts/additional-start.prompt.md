@@ -1,8 +1,8 @@
 ---
 name: additional-start
 description: Start interactive additional considerations gathering for Section 6 (Third-party, Risks, Timeline)
-agent: additional-considerations
-tools: ['search', 'fetch', 'read']
+agent: Additional Considerations
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Start an interactive additional considerations session for the application we're building.

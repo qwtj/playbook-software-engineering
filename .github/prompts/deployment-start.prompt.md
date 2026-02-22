@@ -1,8 +1,8 @@
 ---
 name: deployment-start
 description: Start interactive deployment strategy gathering for Section 2 (Environment Approach and Infrastructure/Scaling)
-agent: deployment-strategy
-tools: ['search', 'fetch', 'read']
+agent: Deployment Strategy
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Start an interactive deployment strategy session for the application we're building.

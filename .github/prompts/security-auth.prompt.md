@@ -1,8 +1,8 @@
 ---
 name: security-auth
 description: Jump to Section 4.1 Authentication and Authorization questions
-agent: security-compliance
-tools: ['search', 'fetch', 'read']
+agent: Security & Compliance
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **4.1 Authentication and Authorization** from the security and compliance playbook.

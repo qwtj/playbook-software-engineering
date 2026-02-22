@@ -1,8 +1,8 @@
 ---
 name: performance-metrics
 description: Jump to Section 5.2 Metrics and Logs questions
-agent: performance-monitoring
-tools: ['search', 'fetch', 'read']
+agent: Performance & Monitoring
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **5.2 Metrics and Logs** from the performance and monitoring playbook.

@@ -1,8 +1,8 @@
 ---
 name: performance-alerting
 description: Jump to Section 5.3 Real-time Monitoring and Alerting questions
-agent: performance-monitoring
-tools: ['search', 'fetch', 'read']
+agent: Performance & Monitoring
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Let's focus on **5.3 Real-time Monitoring and Alerting** from the performance and monitoring playbook.

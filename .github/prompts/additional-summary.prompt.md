@@ -1,8 +1,8 @@
 ---
 name: additional-summary
 description: Request a consolidated summary of additional considerations gathered so far
-agent: additional-considerations
-tools: ['search', 'read']
+agent: Additional Considerations
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 ---
 
 Please provide a **consolidated summary** of the additional considerations we've gathered.
