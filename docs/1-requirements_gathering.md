@@ -1,14 +1,14 @@
 # Requirements Gathering Document
 
-> **Navigation:** [Home](README.md) | Next: [Architecture Planning](2-architecture_planning.md)
+> **Navigation:** [Home](README.md) | Next: [Architecture Planning](6-architecture_planning.md)
 >
 > **Prerequisites:** None - this is the starting document
 >
 > **Related Documents:**
-> - [Architecture Planning](2-architecture_planning.md) - Expands on deployment and architecture decisions
-> - [Database & Storage Planning](6-database-and-storage-planning.md) - Details database requirements
-> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Details security requirements
-> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Details performance requirements
+> - [Architecture Planning](6-architecture_planning.md) - Expands on deployment and architecture decisions
+> - [Database & Storage Planning](10-database_and_storage_planning.md) - Details database requirements
+> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Details security requirements
+> - [Performance & Optimization](16-performance_and_optimization_planning.md) - Details performance requirements
 
 ---
 

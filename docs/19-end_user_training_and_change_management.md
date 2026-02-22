@@ -5,8 +5,8 @@
 > **Prerequisites:** UAT Completed
 >
 > **Related Documents:**
-> - [Launch Checklist](13-launch-checklist.md)
-> - [Post-Launch Operations](16-post-launch-operations.md)
+> - [Launch Checklist](20-launch_checklist.md)
+> - [Post-Launch Operations](21-post_launch_operations.md)
 
 ---
 

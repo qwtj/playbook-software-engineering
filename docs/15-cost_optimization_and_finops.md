@@ -1,14 +1,14 @@
 # Cost Optimization and FinOps Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Launch Checklist](13-launch-checklist.md)
+> **Navigation:** [Home](README.md) | Previous: [Launch Checklist](20-launch_checklist.md)
 >
-> **Prerequisites:** Review [Architecture Planning](2-architecture_planning.md) and [Compute Selection](5-compute-selection.md)
+> **Prerequisites:** Review [Architecture Planning](6-architecture_planning.md) and [Compute Selection](9-compute_selection.md)
 >
 > **Related Documents:**
-> - [Architecture Planning](2-architecture_planning.md) - Cost implications of architecture decisions
-> - [Compute Selection](5-compute-selection.md) - Compute cost considerations
-> - [Database & Storage Planning](6-database-and-storage-planning.md) - Storage cost planning
-> - [Observability Stack Planning](9-observability-stack-planning.md) - Monitoring costs
+> - [Architecture Planning](6-architecture_planning.md) - Cost implications of architecture decisions
+> - [Compute Selection](9-compute_selection.md) - Compute cost considerations
+> - [Database & Storage Planning](10-database_and_storage_planning.md) - Storage cost planning
+> - [Observability Stack Planning](12-observability_stack_planning.md) - Monitoring costs
 
 ---
 

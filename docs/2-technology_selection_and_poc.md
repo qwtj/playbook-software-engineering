@@ -5,8 +5,8 @@
 > **Prerequisites:** High-level business objectives defined
 >
 > **Related Documents:**
-> - [Architecture Planning](2-architecture_planning.md)
-> - [Infrastructure Guidelines](4-infrastructure-guidelines.md)
+> - [Architecture Planning](6-architecture_planning.md)
+> - [Infrastructure Guidelines](8-infrastructure_guidelines.md)
 
 ---
 

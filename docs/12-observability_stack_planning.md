@@ -1,18 +1,18 @@
 # Observability Stack Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Security & Compliance Planning](8-security-and-compliance-planning.md) | Next: [CI/CD Planning](10-cicd-planning.md)
+> **Navigation:** [Home](README.md) | Previous: [Security & Compliance Planning](4-security_and_compliance_planning.md) | Next: [CI/CD Planning](13-cicd_planning.md)
 >
-> **Prerequisites:** Complete [Infrastructure Guidelines](4-infrastructure-guidelines.md) (monitoring section)
+> **Prerequisites:** Complete [Infrastructure Guidelines](8-infrastructure_guidelines.md) (monitoring section)
 >
 > **Related Documents:**
-> - [Infrastructure Guidelines](4-infrastructure-guidelines.md) - Monitoring and logging foundations
-> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Compliance logging requirements
-> - [CI/CD Planning](10-cicd-planning.md) - Pipeline monitoring integration
-> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Performance metrics and dashboards
+> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Monitoring and logging foundations
+> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Compliance logging requirements
+> - [CI/CD Planning](13-cicd_planning.md) - Pipeline monitoring integration
+> - [Performance & Optimization](16-performance_and_optimization_planning.md) - Performance metrics and dashboards
 
 ---
 
-# Observability Stack Requirements Gathering
+## 1. Observability Stack Requirements Gathering
 
 ## 1. Observability Goals
 - What business objectives or outcomes should the observability solution support?

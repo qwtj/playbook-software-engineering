@@ -2,11 +2,11 @@
 
 > **Navigation:** [Home](README.md)
 >
-> **Prerequisites:** [Database & Storage Planning](6-database-and-storage-planning.md)
+> **Prerequisites:** [Database & Storage Planning](10-database_and_storage_planning.md)
 >
 > **Related Documents:**
-> - [Security & Compliance](8-security-and-compliance-planning.md)
-> - [Launch Checklist](13-launch-checklist.md)
+> - [Security & Compliance](4-security_and_compliance_planning.md)
+> - [Launch Checklist](20-launch_checklist.md)
 
 ---
 

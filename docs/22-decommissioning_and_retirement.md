@@ -5,7 +5,7 @@
 > **Prerequisites:** New system operational (if replacing) or Product Decision to Sunset
 >
 > **Related Documents:**
-> - [Data Governance & Strategy](19-data-governance-and-strategy.md)
+> - [Data Governance & Strategy](3-data_governance_and_strategy.md)
 
 ---
 

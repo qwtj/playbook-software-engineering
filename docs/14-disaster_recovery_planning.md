@@ -2,13 +2,13 @@
 
 > **Navigation:** [Home](README.md) | Previous: [Cost Optimization and FinOps](14-cost-optimization-and-finops.md)
 >
-> **Prerequisites:** Complete [Architecture Planning](2-architecture_planning.md) and [Database & Storage Planning](6-database-and-storage-planning.md)
+> **Prerequisites:** Complete [Architecture Planning](2-architecture_planning.md) and [Database & Storage Planning](10-database_and_storage_planning.md)
 >
 > **Related Documents:**
 > - [Architecture Planning](2-architecture_planning.md) - Multi-region architecture decisions
-> - [Database & Storage Planning](6-database-and-storage-planning.md) - Backup and replication strategies
-> - [Final Validations](12-final-validations.md) - DR validation and testing
-> - [Observability Stack Planning](9-observability-stack-planning.md) - DR monitoring
+> - [Database & Storage Planning](10-database_and_storage_planning.md) - Backup and replication strategies
+> - [Final Validations](18-final_validations.md) - DR validation and testing
+> - [Observability Stack Planning](12-observability_stack_planning.md) - DR monitoring
 
 ---
 

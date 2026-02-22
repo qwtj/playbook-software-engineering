@@ -1,14 +1,14 @@
 # Testing Strategy Guide
 
-> **Navigation:** [Home](README.md) | Previous: [Post-Launch Operations](16-post-launch-operations.md)
+> **Navigation:** [Home](README.md) | Previous: [Post-Launch Operations](21-post_launch_operations.md)
 >
-> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) and [CI/CD Planning](10-cicd-planning.md)
+> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) and [CI/CD Planning](13-cicd_planning.md)
 >
 > **Related Documents:**
-> - [CI/CD Planning](10-cicd-planning.md) - Test integration in pipelines
-> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Load and performance testing
-> - [Final Validations](12-final-validations.md) - Pre-launch testing validation
-> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Security testing requirements
+> - [CI/CD Planning](13-cicd_planning.md) - Test integration in pipelines
+> - [Performance & Optimization](16-performance_and_optimization_planning.md) - Load and performance testing
+> - [Final Validations](18-final_validations.md) - Pre-launch testing validation
+> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Security testing requirements
 
 ---
 
