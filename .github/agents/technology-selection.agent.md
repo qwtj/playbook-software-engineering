@@ -7,6 +7,10 @@ handoffs:
     agent: database-data-management
     prompt: I'd like to go back and complete Section 3 (Database and Data Management). Please help me as defined in the playbook.
     send: false
+  - label: Back to Security & Compliance
+    agent: security-compliance
+    prompt: I'd like to go back and complete Section 4 (Security and Compliance). Please help me as defined in the playbook.
+    send: false
 ---
 
 # Technology Selection Agent

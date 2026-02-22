@@ -11,6 +11,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 - [Requirements Gathering Agent](#requirements-gathering-agent)
 - [Deployment Strategy Agent](#deployment-strategy-agent)
 - [Database & Data Management Agent](#database--data-management-agent)
+- [Security & Compliance Agent](#security--compliance-agent)
 - [Technology Selection Agent](#technology-selection-agent)
 - [Slash Commands (Prompts)](#slash-commands-prompts)
 - [Adding Future Usage Details](#adding-future-usage-details)
@@ -43,7 +44,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 
 ### Handoff
 
-When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy**, **Continue to Database & Data Management**, or **Continue to Technology Selection**.
+When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, or **Continue to Technology Selection**.
 
 ---
 
@@ -72,7 +73,7 @@ When Section 1 is complete, handoff buttons appear: **Continue to Deployment Str
 
 ### Handoff
 
-When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Database & Data Management**, or **Back to Requirements Gathering**.
+When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, or **Back to Requirements Gathering**.
 
 ---
 
@@ -102,7 +103,37 @@ When Section 2 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-When Section 3 is complete, handoff buttons appear: **Continue to Technology Selection**, **Back to Requirements Gathering**, or **Back to Deployment Strategy**.
+When Section 3 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Security & Compliance**, **Back to Requirements Gathering**, or **Back to Deployment Strategy**.
+
+---
+
+## Security & Compliance Agent
+
+**Purpose:** Interactively gather Section 4 (Security and Compliance) from the playbook.
+
+### How to Start
+
+1. Select **Security & Compliance** from the agents dropdown, **or**
+2. Type `/security-start` and press Enter, **or**
+3. Complete the Requirements Gathering, Deployment Strategy, or Database & Data Management flow and click **Continue to Security & Compliance**.
+
+### Session Flow
+
+1. **Introduction** — The agent greets you and asks the first questions from 4.1 Authentication and Authorization.
+2. **4.1 Authentication and Authorization** — Identity provider (SSO, IAM, Entra ID), MFA, RBAC/ABAC, token protocols (OAuth2, SAML).
+3. **4.2 Regulatory and Compliance** — Standards (GDPR, HIPAA, PCI), audit logging, retention, who accesses audit logs.
+4. **4.3 Data Encryption** — Encryption at rest and in transit, standards (AES-256, TLS 1.2+), key management (KMS, Key Vault, rotation).
+
+### Key Behaviors
+
+- **Interactive** — The agent waits for your answers before moving on. You can skip sections or go deeper as needed.
+- **Confirmation before fetch/diagram** — If you ask for documentation or diagrams, the agent will ask: *"Would you like me to [fetch X / create a diagram]? Or do you have your own to reference?"* It only proceeds after you confirm.
+- **Diagrams** — When approved, the agent generates Mermaid diagrams (authentication flow, compliance matrix, encryption architecture).
+- **Summary** — Run `/security-summary` anytime to get a consolidated markdown summary.
+
+### Handoff
+
+When Section 4 is complete, handoff buttons appear: **Continue to Technology Selection**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, or **Back to Database & Data Management**.
 
 ---
 
@@ -113,7 +144,7 @@ When Section 3 is complete, handoff buttons appear: **Continue to Technology Sel
 ### How to Start
 
 1. Select **Technology Selection** from the agents dropdown, **or**
-2. Complete the Requirements Gathering, Deployment Strategy, or Database & Data Management flow and click **Continue to Technology Selection**.
+2. Complete the Requirements Gathering, Deployment Strategy, Database & Data Management, or Security & Compliance flow and click **Continue to Technology Selection**.
 
 ### Scope
 
@@ -124,7 +155,7 @@ When Section 3 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-You can click **Back to Database & Data Management** to return to Section 3.
+You can click **Back to Database & Data Management** to return to Section 3, or **Back to Security & Compliance** to return to Section 4.
 
 ---
 
@@ -148,6 +179,11 @@ Type `/` in the Chat input to see available prompts.
 | `/database-caching` | Jump to 3.2 Caching questions. |
 | `/database-messaging` | Jump to 3.3 Messaging and Integration questions. |
 | `/database-summary` | Request a consolidated summary of captured database and data management requirements. |
+| `/security-start` | Start an interactive security and compliance session; asks first 4.1 questions. |
+| `/security-auth` | Jump to 4.1 Authentication and Authorization questions. |
+| `/security-compliance` | Jump to 4.2 Regulatory and Compliance questions. |
+| `/security-encryption` | Jump to 4.3 Data Encryption questions. |
+| `/security-summary` | Request a consolidated summary of captured security and compliance requirements. |
 
 ---
 
