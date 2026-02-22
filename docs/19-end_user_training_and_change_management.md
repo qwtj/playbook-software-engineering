@@ -5,9 +5,16 @@
 > **Prerequisites:** Complete [UAT & Pilot](17-uat_and_pilot.md) and [Final Validations](18-final_validations.md)
 >
 > **Related Documents:**
+<<<<<<< HEAD
 > - [UAT & Pilot](17-uat_and_pilot.md) - User acceptance testing completion
 > - [Launch Checklist](20-launch_checklist.md) - Pre-launch training verification
 > - [Post-Launch Operations](21-post_launch_operations.md) - Ongoing support requirements
+=======
+> - [Requirements Gathering](1-requirements_gathering.md) - Understanding user roles and workflows
+> - [UAT & Pilot](17-uat_and_pilot.md) - User testing and feedback collection
+> - [Launch Checklist](20-launch_checklist.md) - Training completion requirements
+> - [Post-Launch Operations](21-post_launch_operations.md) - Ongoing user support procedures
+>>>>>>> worktree-issue-003
 
 ---
 
