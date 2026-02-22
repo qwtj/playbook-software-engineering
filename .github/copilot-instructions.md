@@ -2,6 +2,8 @@
 
 This workspace follows the Software Engineering Playbook SDLC. Key references:
 
+Check tmp folder for additional context files.
+
 - **Documentation structure:** The `docs/` folder contains 22 guides covering the full lifecycle. See [docs/00-documentation_index.md](docs/00-documentation_index.md).
 - **Requirements gathering:** Section 1 (Application Functionality and User Experience) is defined in [docs/01-requirements_gathering.md](docs/01-requirements_gathering.md) and covers:
   - 1.1 Core Features
