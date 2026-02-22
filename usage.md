@@ -12,6 +12,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 - [Deployment Strategy Agent](#deployment-strategy-agent)
 - [Database & Data Management Agent](#database--data-management-agent)
 - [Security & Compliance Agent](#security--compliance-agent)
+- [Performance & Monitoring Agent](#performance--monitoring-agent)
 - [Technology Selection Agent](#technology-selection-agent)
 - [Slash Commands (Prompts)](#slash-commands-prompts)
 - [Adding Future Usage Details](#adding-future-usage-details)
@@ -44,7 +45,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 
 ### Handoff
 
-When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, or **Continue to Technology Selection**.
+When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, or **Continue to Technology Selection**.
 
 ---
 
@@ -73,7 +74,7 @@ When Section 1 is complete, handoff buttons appear: **Continue to Deployment Str
 
 ### Handoff
 
-When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, or **Back to Requirements Gathering**.
+When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, or **Back to Requirements Gathering**.
 
 ---
 
@@ -103,7 +104,7 @@ When Section 2 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-When Section 3 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Security & Compliance**, **Back to Requirements Gathering**, or **Back to Deployment Strategy**.
+When Section 3 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, **Back to Requirements Gathering**, or **Back to Deployment Strategy**.
 
 ---
 
@@ -133,7 +134,37 @@ When Section 3 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-When Section 4 is complete, handoff buttons appear: **Continue to Technology Selection**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, or **Back to Database & Data Management**.
+When Section 4 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Performance & Monitoring**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, or **Back to Database & Data Management**.
+
+---
+
+## Performance & Monitoring Agent
+
+**Purpose:** Interactively gather Section 5 (Performance and Monitoring) from the playbook.
+
+### How to Start
+
+1. Select **Performance & Monitoring** from the agents dropdown, **or**
+2. Type `/performance-start` and press Enter, **or**
+3. Complete the Requirements Gathering, Deployment Strategy, Database & Data Management, or Security & Compliance flow and click **Continue to Performance & Monitoring**.
+
+### Session Flow
+
+1. **Introduction** — The agent greets you and asks the first questions from 5.1 Response Times and Throughput.
+2. **5.1 Response Times and Throughput** — Response time targets, SLA (p95, p99), peak load expectations.
+3. **5.2 Metrics and Logs** — Essential metrics/logs, retention and compliance, KPIs to track.
+4. **5.3 Real-time Monitoring and Alerting** — Implementation approach, alert channels, escalation policies.
+
+### Key Behaviors
+
+- **Interactive** — The agent waits for your answers before moving on. You can skip sections or go deeper as needed.
+- **Confirmation before fetch/diagram** — If you ask for documentation or diagrams, the agent will ask: *"Would you like me to [fetch X / create a diagram]? Or do you have your own to reference?"* It only proceeds after you confirm.
+- **Diagrams** — When approved, the agent generates Mermaid diagrams (SLA matrix, metrics/logs architecture, monitoring and alerting flow).
+- **Summary** — Run `/performance-summary` anytime to get a consolidated markdown summary.
+
+### Handoff
+
+When Section 5 is complete, handoff buttons appear: **Continue to Technology Selection**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, **Back to Database & Data Management**, or **Back to Security & Compliance**.
 
 ---
 
@@ -144,7 +175,7 @@ When Section 4 is complete, handoff buttons appear: **Continue to Technology Sel
 ### How to Start
 
 1. Select **Technology Selection** from the agents dropdown, **or**
-2. Complete the Requirements Gathering, Deployment Strategy, Database & Data Management, or Security & Compliance flow and click **Continue to Technology Selection**.
+2. Complete the Requirements Gathering, Deployment Strategy, Database & Data Management, Security & Compliance, or Performance & Monitoring flow and click **Continue to Technology Selection**.
 
 ### Scope
 
@@ -155,7 +186,7 @@ When Section 4 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-You can click **Back to Database & Data Management** to return to Section 3, or **Back to Security & Compliance** to return to Section 4.
+You can click **Back to Database & Data Management** to return to Section 3, **Back to Security & Compliance** to return to Section 4, or **Back to Performance & Monitoring** to return to Section 5.
 
 ---
 
@@ -184,6 +215,11 @@ Type `/` in the Chat input to see available prompts.
 | `/security-compliance` | Jump to 4.2 Regulatory and Compliance questions. |
 | `/security-encryption` | Jump to 4.3 Data Encryption questions. |
 | `/security-summary` | Request a consolidated summary of captured security and compliance requirements. |
+| `/performance-start` | Start an interactive performance and monitoring session; asks first 5.1 questions. |
+| `/performance-response-times` | Jump to 5.1 Response Times and Throughput questions. |
+| `/performance-metrics` | Jump to 5.2 Metrics and Logs questions. |
+| `/performance-alerting` | Jump to 5.3 Real-time Monitoring and Alerting questions. |
+| `/performance-summary` | Request a consolidated summary of captured performance and monitoring requirements. |
 
 ---
 

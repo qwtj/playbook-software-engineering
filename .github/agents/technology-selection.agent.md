@@ -11,6 +11,10 @@ handoffs:
     agent: security-compliance
     prompt: I'd like to go back and complete Section 4 (Security and Compliance). Please help me as defined in the playbook.
     send: false
+  - label: Back to Performance & Monitoring
+    agent: performance-monitoring
+    prompt: I'd like to go back and complete Section 5 (Performance and Monitoring). Please help me as defined in the playbook.
+    send: false
 ---
 
 # Technology Selection Agent

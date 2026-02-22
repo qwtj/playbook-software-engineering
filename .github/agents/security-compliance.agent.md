@@ -19,6 +19,10 @@ handoffs:
     agent: database-data-management
     prompt: I'd like to go back and complete Section 3 (Database and Data Management). Please help me with database and data management as defined in the playbook.
     send: false
+  - label: Continue to Performance & Monitoring
+    agent: performance-monitoring
+    prompt: I've completed Section 4 (Security and Compliance). Please help me with Section 5 (Performance and Monitoring) as defined in the playbook.
+    send: false
 ---
 
 # Security & Compliance Agent

@@ -15,6 +15,10 @@ handoffs:
     agent: security-compliance
     prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with Section 4 (Security and Compliance) as defined in the playbook.
     send: false
+  - label: Continue to Performance & Monitoring
+    agent: performance-monitoring
+    prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with Section 5 (Performance and Monitoring) as defined in the playbook.
+    send: false
   - label: Continue to Technology Selection
     agent: technology-selection
     prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with technology selection and proof of concept planning as defined in the playbook.

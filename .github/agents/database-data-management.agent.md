@@ -11,6 +11,10 @@ handoffs:
     agent: security-compliance
     prompt: I've completed Section 3 (Database and Data Management). Please help me with Section 4 (Security and Compliance) as defined in the playbook.
     send: false
+  - label: Continue to Performance & Monitoring
+    agent: performance-monitoring
+    prompt: I've completed Section 3 (Database and Data Management). Please help me with Section 5 (Performance and Monitoring) as defined in the playbook.
+    send: false
   - label: Back to Requirements Gathering
     agent: requirements-gathering
     prompt: I'd like to go back and complete Section 1 (Application Functionality and User Experience). Please help me with requirements gathering as defined in the playbook.

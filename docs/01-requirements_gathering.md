@@ -70,9 +70,20 @@
 ---
 
 ## 5. Performance and Monitoring
+### 5.1 Response Times and Throughput
 - What are the expected response times or throughput targets?
+- Are there SLA targets (e.g., p95, p99 latency)?
+- What are peak load expectations?
+
+### 5.2 Metrics and Logs
 - Which metrics or logs are essential to capture?
+- What retention and compliance requirements apply to logs?
+- Which KPIs should be tracked?
+
+### 5.3 Real-time Monitoring and Alerting
 - How will real-time monitoring and alerting be implemented?
+- Who receives alerts and through which channels?
+- Are escalation policies needed?
 
 ---
 
