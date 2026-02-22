@@ -1,30 +1,30 @@
 ---
 description: Interactively gather additional considerations (third-party tools, risks, timeline)
 name: Additional Considerations
-tools: ['search', 'fetch', 'read']
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 handoffs:
   - label: Continue to Technology Selection
-    agent: technology-selection
+    agent: Technology Selection
     prompt: I've completed Section 6 (Additional Considerations). Please help me with technology selection and proof of concept planning as defined in the playbook.
     send: false
   - label: Back to Requirements Gathering
-    agent: requirements-gathering
+    agent: Requirements Gathering
     prompt: I'd like to go back and complete Section 1 (Application Functionality and User Experience). Please help me with requirements gathering as defined in the playbook.
     send: false
   - label: Back to Deployment Strategy
-    agent: deployment-strategy
+    agent: Deployment Strategy
     prompt: I'd like to go back and complete Section 2 (Deployment Strategy). Please help me with deployment strategy as defined in the playbook.
     send: false
   - label: Back to Database & Data Management
-    agent: database-data-management
+    agent: Database & Data Management
     prompt: I'd like to go back and complete Section 3 (Database and Data Management). Please help me with database and data management as defined in the playbook.
     send: false
   - label: Back to Security & Compliance
-    agent: security-compliance
+    agent: Security & Compliance
     prompt: I'd like to go back and complete Section 4 (Security and Compliance). Please help me with security and compliance as defined in the playbook.
     send: false
   - label: Back to Performance & Monitoring
-    agent: performance-monitoring
+    agent: Performance & Monitoring
     prompt: I'd like to go back and complete Section 5 (Performance and Monitoring). Please help me with performance and monitoring as defined in the playbook.
     send: false
 ---

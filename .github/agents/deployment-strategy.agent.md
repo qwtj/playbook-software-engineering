@@ -1,30 +1,30 @@
 ---
 description: Interactively gather deployment strategy and infrastructure requirements
 name: Deployment Strategy
-tools: ['search', 'fetch', 'read']
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 handoffs:
   - label: Continue to Technology Selection
-    agent: technology-selection
+    agent: Technology Selection
     prompt: I've completed Section 2 (Deployment Strategy). Please help me with technology selection and proof of concept planning as defined in the playbook.
     send: false
   - label: Continue to Database & Data Management
-    agent: database-data-management
+    agent: Database & Data Management
     prompt: I've completed Section 2 (Deployment Strategy). Please help me with Section 3 (Database and Data Management) as defined in the playbook.
     send: false
   - label: Continue to Security & Compliance
-    agent: security-compliance
+    agent: Security & Compliance
     prompt: I've completed Section 2 (Deployment Strategy). Please help me with Section 4 (Security and Compliance) as defined in the playbook.
     send: false
   - label: Continue to Performance & Monitoring
-    agent: performance-monitoring
+    agent: Performance & Monitoring
     prompt: I've completed Section 2 (Deployment Strategy). Please help me with Section 5 (Performance and Monitoring) as defined in the playbook.
     send: false
   - label: Continue to Additional Considerations
-    agent: additional-considerations
+    agent: Additional Considerations
     prompt: I've completed Section 2 (Deployment Strategy). Please help me with Section 6 (Additional Considerations) as defined in the playbook.
     send: false
   - label: Back to Requirements Gathering
-    agent: requirements-gathering
+    agent: Requirements Gathering
     prompt: I'd like to go back and complete Section 1 (Application Functionality and User Experience). Please help me with requirements gathering as defined in the playbook.
     send: false
 ---

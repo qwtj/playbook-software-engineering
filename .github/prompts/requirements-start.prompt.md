@@ -1,8 +1,8 @@
 ---
 name: requirements-start
 description: Start interactive requirements gathering for Section 1 (Application Functionality and User Experience)
-agent: requirements-gathering
-tools: ['search', 'fetch', 'read']
+agent: Requirements Gathering
+tools: ['search', 'web/fetch', 'read']
 ---
 
 Start an interactive requirements gathering session for the application we're building.

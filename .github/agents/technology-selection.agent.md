@@ -1,22 +1,22 @@
 ---
 description: Guide through technology selection and proof of concept planning
 name: Technology Selection
-tools: ['search', 'fetch', 'read']
+tools: ['search', 'web/fetch', 'read', 'agent', 'execute', 'edit']
 handoffs:
   - label: Back to Database & Data Management
-    agent: database-data-management
+    agent: Database & Data Management
     prompt: I'd like to go back and complete Section 3 (Database and Data Management). Please help me as defined in the playbook.
     send: false
   - label: Back to Security & Compliance
-    agent: security-compliance
+    agent: Security & Compliance
     prompt: I'd like to go back and complete Section 4 (Security and Compliance). Please help me as defined in the playbook.
     send: false
   - label: Back to Performance & Monitoring
-    agent: performance-monitoring
+    agent: Performance & Monitoring
     prompt: I'd like to go back and complete Section 5 (Performance and Monitoring). Please help me as defined in the playbook.
     send: false
   - label: Back to Additional Considerations
-    agent: additional-considerations
+    agent: Additional Considerations
     prompt: I'd like to go back and complete Section 6 (Additional Considerations). Please help me as defined in the playbook.
     send: false
 ---
