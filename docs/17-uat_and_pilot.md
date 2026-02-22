@@ -1,11 +1,11 @@
 # User Acceptance Testing (UAT) & Pilot
 
-> **Navigation:** [Home](README.md) | Next: [Launch Checklist](13-launch-checklist.md)
+> **Navigation:** [Home](README.md) | Next: [Launch Checklist](20-launch_checklist.md)
 >
-> **Prerequisites:** [Final Validations](12-final-validations.md)
+> **Prerequisites:** [Final Validations](18-final_validations.md)
 >
 > **Related Documents:**
-> - [Testing Strategy](17-testing-strategy.md)
+> - [Testing Strategy](5-testing_strategy.md)
 
 ---
 
@@ -18,7 +18,7 @@ Validate that the system meets business needs, not just technical specs.
     - [ ] Workflow A: [Prompt]
     - [ ] Workflow B: [Prompt]
 
-### 1.2 feedback Mechanism
+### 1.2 Feedback Mechanism
 - How will testers report issues? (Jira, Spreadsheet, specialized tool)
 - Triage process for UAT feedback (Blocker vs. Nice-to-have).
 

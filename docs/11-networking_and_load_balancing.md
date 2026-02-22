@@ -1,54 +1,54 @@
 # Networking and Load Balancing Requirements Gathering
 
-> **Navigation:** [Home](README.md) | Previous: [Database & Storage Planning](6-database-and-storage-planning.md) | Next: [Security & Compliance Planning](8-security-and-compliance-planning.md)
+> **Navigation:** [Home](README.md) | Previous: [Database & Storage Planning](10-database_and_storage_planning.md) | Next: [Security & Compliance Planning](4-security_and_compliance_planning.md)
 >
-> **Prerequisites:** Complete [Infrastructure Guidelines](4-infrastructure-guidelines.md) (VPC/subnet configuration)
+> **Prerequisites:** Complete [Infrastructure Guidelines](8-infrastructure_guidelines.md) (VPC/subnet configuration)
 >
 > **Related Documents:**
-> - [Infrastructure Guidelines](4-infrastructure-guidelines.md) - VPC and subnet foundation
-> - [Compute Selection](5-compute-selection.md) - Load balancer targets
-> - [Security & Compliance Planning](8-security-and-compliance-planning.md) - Network security rules
-> - [Performance & Optimization](11-performance-and-optimization-planning.md) - Auto-scaling thresholds
+> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - VPC and subnet foundation
+> - [Compute Selection](9-compute_selection.md) - Load balancer targets
+> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Network security rules
+> - [Performance & Optimization](16-performance_and_optimization_planning.md) - Auto-scaling thresholds
 
 ---
 
 ## Load Balancers
 
-### Load Balancer Type
+### 1.1 Load Balancer Type
 - What cloud provider is being used (AWS, Azure, GCP)?
 - Which type of load balancer is preferred (ALB, Azure LB, GCLB)?
 - Should the load balancer support internal or internet-facing traffic?
 
-### Traffic Routing
+### 1.2 Traffic Routing
 - What protocols are required (HTTP, HTTPS, TCP, UDP)?
 - Is path-based or host-based routing needed?
 - Are there sticky sessions or session affinity requirements?
 
-### Health Checks
+### 1.3 Health Checks
 - What endpoints should be used for health checks?
 - What should be the health check interval, timeout, and threshold?
 
-### Security
+### 1.4 Security
 - What firewall/security group rules need to be applied?
 - Should access be restricted to certain IPs or ranges?
 
 ## Domain Setup
 
-### Domain Ownership
+### 2.1 Domain Ownership
 - Is there an existing domain name?
 - Who manages domain registration (Namecheap, Route53, etc.)?
 
-### New Domain
+### 2.2 New Domain
 - Will a new domain need to be registered?
 - Are there branding or naming constraints?
 
 ## SSL Certificates
 
-### Certificate Management
+### 3.1 Certificate Management
 - Will certificates be managed via a cloud service (ACM, Azure, GCP)?
 - Are wildcard or multi-domain certificates required?
 
-### Renewal & Automation
+### 3.2 Renewal & Automation
 - Should SSL renewal be automated?
 - Who is responsible for monitoring certificate status?
 
