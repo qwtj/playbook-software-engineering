@@ -1,10 +1,6 @@
 # Requirements Gathering
 
-<<<<<<< HEAD
-> **Navigation:** [Home](README.md) | Next: [Technology Selection & POC](2-technology_selection_and_poc.md)
-=======
 > **Navigation:** [Home](README.md) | Next: [Technology Selection & PoC](2-technology_selection_and_poc.md)
->>>>>>> worktree-issue-003
 >
 > **Prerequisites:** None - this is the starting document
 >

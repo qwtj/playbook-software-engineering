@@ -5,16 +5,11 @@
 > **Prerequisites:** System operational and retirement decision made
 >
 > **Related Documents:**
-<<<<<<< HEAD
-> - [Data Governance & Strategy](3-data_governance_and_strategy.md) - Data archiving and sanitization policies
-> - [Post-Launch Operations](21-post_launch_operations.md) - Current operational procedures to terminate
-=======
 > - [Data Governance & Strategy](3-data_governance_and_strategy.md) - Data retention and archiving policies
 > - [Database & Storage Planning](10-database_and_storage_planning.md) - Data migration procedures
 > - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Data destruction compliance
 > - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Resource cleanup procedures
 > - [Post-Launch Operations](21-post_launch_operations.md) - Operational handover knowledge
->>>>>>> worktree-issue-003
 
 ---
 

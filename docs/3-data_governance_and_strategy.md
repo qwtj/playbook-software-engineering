@@ -1,25 +1,14 @@
 # Data Governance & Strategy
 
-<<<<<<< HEAD
-> **Navigation:** [Home](README.md) | Previous: [Technology Selection & POC](2-technology_selection_and_poc.md) | Next: [Security & Compliance Planning](4-security_and_compliance_planning.md)
->
-> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md)
->
-> **Related Documents:**
-> - [Requirements Gathering](1-requirements_gathering.md) - Defines data handling requirements
-> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Implements data governance controls
-> - [Database & Storage Planning](10-database_and_storage_planning.md) - Storage strategy for governed data
-=======
 > **Navigation:** [Home](README.md) | Previous: [Technology Selection & PoC](2-technology_selection_and_poc.md) | Next: [Security & Compliance Planning](4-security_and_compliance_planning.md)
->
+
 > **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) first
->
+
 > **Related Documents:**
 > - [Requirements Gathering](1-requirements_gathering.md) - Data requirements identification
 > - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Data protection policies
 > - [Database & Storage Planning](10-database_and_storage_planning.md) - Technical data implementation
 > - [Decommissioning & Retirement](22-decommissioning_and_retirement.md) - Data retention and destruction policies
->>>>>>> worktree-issue-003
 
 ---
 
