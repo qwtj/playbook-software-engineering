@@ -13,6 +13,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 - [Database & Data Management Agent](#database--data-management-agent)
 - [Security & Compliance Agent](#security--compliance-agent)
 - [Performance & Monitoring Agent](#performance--monitoring-agent)
+- [Additional Considerations Agent](#additional-considerations-agent)
 - [Technology Selection Agent](#technology-selection-agent)
 - [Slash Commands (Prompts)](#slash-commands-prompts)
 - [Adding Future Usage Details](#adding-future-usage-details)
@@ -45,7 +46,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 
 ### Handoff
 
-When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, or **Continue to Technology Selection**.
+When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, **Continue to Additional Considerations**, or **Continue to Technology Selection**.
 
 ---
 
@@ -74,7 +75,7 @@ When Section 1 is complete, handoff buttons appear: **Continue to Deployment Str
 
 ### Handoff
 
-When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, or **Back to Requirements Gathering**.
+When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Database & Data Management**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, **Continue to Additional Considerations**, or **Back to Requirements Gathering**.
 
 ---
 
@@ -104,7 +105,7 @@ When Section 2 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-When Section 3 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, **Back to Requirements Gathering**, or **Back to Deployment Strategy**.
+When Section 3 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Security & Compliance**, **Continue to Performance & Monitoring**, **Continue to Additional Considerations**, **Back to Requirements Gathering**, or **Back to Deployment Strategy**.
 
 ---
 
@@ -134,7 +135,7 @@ When Section 3 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-When Section 4 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Performance & Monitoring**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, or **Back to Database & Data Management**.
+When Section 4 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Performance & Monitoring**, **Continue to Additional Considerations**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, or **Back to Database & Data Management**.
 
 ---
 
@@ -164,7 +165,37 @@ When Section 4 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-When Section 5 is complete, handoff buttons appear: **Continue to Technology Selection**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, **Back to Database & Data Management**, or **Back to Security & Compliance**.
+When Section 5 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Additional Considerations**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, **Back to Database & Data Management**, or **Back to Security & Compliance**.
+
+---
+
+## Additional Considerations Agent
+
+**Purpose:** Interactively gather Section 6 (Additional Considerations) from the playbook.
+
+### How to Start
+
+1. Select **Additional Considerations** from the agents dropdown, **or**
+2. Type `/additional-start` and press Enter, **or**
+3. Complete the Requirements Gathering, Deployment Strategy, Database & Data Management, Security & Compliance, or Performance & Monitoring flow and click **Continue to Additional Considerations**.
+
+### Session Flow
+
+1. **Introduction** — The agent greets you and asks the first questions from 6.1 Third-party Tools and Services.
+2. **6.1 Third-party Tools and Services** — Required tools/services, licensing, integration criteria, fallbacks.
+3. **6.2 Risks and Dependencies** — Risks, technical/organizational/vendor dependencies, tracking and escalation.
+4. **6.3 Timeline and Deadlines** — Phase timelines, milestones, review gates, phase dependencies.
+
+### Key Behaviors
+
+- **Interactive** — The agent waits for your answers before moving on. You can skip sections or go deeper as needed.
+- **Confirmation before fetch/diagram** — If you ask for documentation or diagrams, the agent will ask: *"Would you like me to [fetch X / create a diagram]? Or do you have your own to reference?"* It only proceeds after you confirm.
+- **Diagrams** — When approved, the agent generates Mermaid diagrams (third-party dependency map, risk matrix, timeline/phase diagram).
+- **Summary** — Run `/additional-summary` anytime to get a consolidated markdown summary.
+
+### Handoff
+
+When Section 6 is complete, handoff buttons appear: **Continue to Technology Selection**, **Back to Requirements Gathering**, **Back to Deployment Strategy**, **Back to Database & Data Management**, **Back to Security & Compliance**, or **Back to Performance & Monitoring**.
 
 ---
 
@@ -175,7 +206,7 @@ When Section 5 is complete, handoff buttons appear: **Continue to Technology Sel
 ### How to Start
 
 1. Select **Technology Selection** from the agents dropdown, **or**
-2. Complete the Requirements Gathering, Deployment Strategy, Database & Data Management, Security & Compliance, or Performance & Monitoring flow and click **Continue to Technology Selection**.
+2. Complete the Requirements Gathering, Deployment Strategy, Database & Data Management, Security & Compliance, Performance & Monitoring, or Additional Considerations flow and click **Continue to Technology Selection**.
 
 ### Scope
 
@@ -186,7 +217,7 @@ When Section 5 is complete, handoff buttons appear: **Continue to Technology Sel
 
 ### Handoff
 
-You can click **Back to Database & Data Management** to return to Section 3, **Back to Security & Compliance** to return to Section 4, or **Back to Performance & Monitoring** to return to Section 5.
+You can click **Back to Database & Data Management** to return to Section 3, **Back to Security & Compliance** to return to Section 4, **Back to Performance & Monitoring** to return to Section 5, or **Back to Additional Considerations** to return to Section 6.
 
 ---
 
@@ -220,6 +251,11 @@ Type `/` in the Chat input to see available prompts.
 | `/performance-metrics` | Jump to 5.2 Metrics and Logs questions. |
 | `/performance-alerting` | Jump to 5.3 Real-time Monitoring and Alerting questions. |
 | `/performance-summary` | Request a consolidated summary of captured performance and monitoring requirements. |
+| `/additional-start` | Start an interactive additional considerations session; asks first 6.1 questions. |
+| `/additional-third-party` | Jump to 6.1 Third-party Tools and Services questions. |
+| `/additional-risks` | Jump to 6.2 Risks and Dependencies questions. |
+| `/additional-timeline` | Jump to 6.3 Timeline and Deadlines questions. |
+| `/additional-summary` | Request a consolidated summary of captured additional considerations. |
 
 ---
 

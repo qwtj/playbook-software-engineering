@@ -23,6 +23,10 @@ handoffs:
     agent: performance-monitoring
     prompt: I've completed Section 4 (Security and Compliance). Please help me with Section 5 (Performance and Monitoring) as defined in the playbook.
     send: false
+  - label: Continue to Additional Considerations
+    agent: additional-considerations
+    prompt: I've completed Section 4 (Security and Compliance). Please help me with Section 6 (Additional Considerations) as defined in the playbook.
+    send: false
 ---
 
 # Security & Compliance Agent
