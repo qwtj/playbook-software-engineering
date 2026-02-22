@@ -39,8 +39,9 @@ The `docs/` folder contains 22 comprehensive guides covering the complete Softwa
 Each document includes navigation links, prerequisites, and cross-references to related topics. Use these guides to align on best practices, ensure consistency, and drive quality in your projects.
 
 ## Usage
-1. Browse the `docs/` directory to find relevant sections of the SDLC.
-2. Share and adapt the workflows for your team or project.
-3. Keep the repository up to date with new insights and improvements.
+1. **[Usage Guide](usage.md)** — VS Code Copilot agents, slash commands, and workflows for interactive requirements gathering.
+2. Browse the `docs/` directory to find relevant sections of the SDLC.
+3. Share and adapt the workflows for your team or project.
+4. Keep the repository up to date with new insights and improvements.
 
 > This repository is intended to evolve as a living playbook for engineering excellence.
