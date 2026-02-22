@@ -1,6 +1,6 @@
 # Cost Optimization and FinOps Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Launch Checklist](20-launch_checklist.md)
+> **Navigation:** [Home](README.md) | Previous: [Disaster Recovery Planning](14-disaster_recovery_planning.md) | Next: [Performance & Optimization Planning](16-performance_and_optimization_planning.md)
 >
 > **Prerequisites:** Review [Architecture Planning](6-architecture_planning.md) and [Compute Selection](9-compute_selection.md)
 >

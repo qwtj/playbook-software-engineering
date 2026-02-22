@@ -1,12 +1,14 @@
 # End-User Training & Change Management
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](README.md) | Previous: [Final Validations](18-final_validations.md) | Next: [Launch Checklist](20-launch_checklist.md)
 >
 > **Prerequisites:** UAT Completed
 >
 > **Related Documents:**
-> - [Launch Checklist](20-launch_checklist.md)
-> - [Post-Launch Operations](21-post_launch_operations.md)
+> - [Requirements Gathering](1-requirements_gathering.md) - Understanding user roles and workflows
+> - [UAT & Pilot](17-uat_and_pilot.md) - User testing and feedback collection
+> - [Launch Checklist](20-launch_checklist.md) - Training completion requirements
+> - [Post-Launch Operations](21-post_launch_operations.md) - Ongoing user support procedures
 
 ---
 

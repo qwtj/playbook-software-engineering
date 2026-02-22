@@ -1,6 +1,6 @@
-# Requirements Gathering Document
+# Requirements Gathering
 
-> **Navigation:** [Home](README.md) | Next: [Architecture Planning](6-architecture_planning.md)
+> **Navigation:** [Home](README.md) | Next: [Technology Selection & PoC](2-technology_selection_and_poc.md)
 >
 > **Prerequisites:** None - this is the starting document
 >

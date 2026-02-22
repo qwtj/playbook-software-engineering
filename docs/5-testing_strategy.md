@@ -1,6 +1,6 @@
-# Testing Strategy Guide
+# Testing Strategy
 
-> **Navigation:** [Home](README.md) | Previous: [Post-Launch Operations](21-post_launch_operations.md)
+> **Navigation:** [Home](README.md) | Previous: [Security & Compliance Planning](4-security_and_compliance_planning.md) | Next: [Architecture Planning](6-architecture_planning.md)
 >
 > **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) and [CI/CD Planning](13-cicd_planning.md)
 >

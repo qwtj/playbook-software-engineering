@@ -1,6 +1,6 @@
-# Networking and Load Balancing Requirements Gathering
+# Networking & Load Balancing
 
-> **Navigation:** [Home](README.md) | Previous: [Database & Storage Planning](10-database_and_storage_planning.md) | Next: [Security & Compliance Planning](4-security_and_compliance_planning.md)
+> **Navigation:** [Home](README.md) | Previous: [Database & Storage Planning](10-database_and_storage_planning.md) | Next: [Observability Stack Planning](12-observability_stack_planning.md)
 >
 > **Prerequisites:** Complete [Infrastructure Guidelines](8-infrastructure_guidelines.md) (VPC/subnet configuration)
 >

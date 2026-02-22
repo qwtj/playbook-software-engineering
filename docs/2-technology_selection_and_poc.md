@@ -1,6 +1,6 @@
 # Technology Selection & Proof of Concept (PoC)
 
-> **Navigation:** [Home](README.md) | Next: [Requirements Gathering](1-requirements_gathering.md)
+> **Navigation:** [Home](README.md) | Previous: [Requirements Gathering](1-requirements_gathering.md) | Next: [Data Governance & Strategy](3-data_governance_and_strategy.md)
 >
 > **Prerequisites:** High-level business objectives defined
 >

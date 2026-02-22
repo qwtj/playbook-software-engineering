@@ -1,12 +1,14 @@
 # Data Governance & Strategy
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](README.md) | Previous: [Technology Selection & PoC](2-technology_selection_and_poc.md) | Next: [Security & Compliance Planning](4-security_and_compliance_planning.md)
 >
-> **Prerequisites:** [Database & Storage Planning](10-database_and_storage_planning.md)
+> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) first
 >
 > **Related Documents:**
-> - [Security & Compliance](4-security_and_compliance_planning.md)
-> - [Launch Checklist](20-launch_checklist.md)
+> - [Requirements Gathering](1-requirements_gathering.md) - Data requirements identification
+> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Data protection policies
+> - [Database & Storage Planning](10-database_and_storage_planning.md) - Technical data implementation
+> - [Decommissioning & Retirement](22-decommissioning_and_retirement.md) - Data retention and destruction policies
 
 ---
 

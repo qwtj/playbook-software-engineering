@@ -1,6 +1,6 @@
-# Post-Launch Operations Guide
+# Post-Launch Operations
 
-> **Navigation:** [Home](README.md) | Previous: [Disaster Recovery Planning](14-disaster_recovery_planning.md)
+> **Navigation:** [Home](README.md) | Previous: [Launch Checklist](20-launch_checklist.md) | Next: [Decommissioning & Retirement](22-decommissioning_and_retirement.md)
 >
 > **Prerequisites:** Complete [Launch Checklist](20-launch_checklist.md) and go live
 >

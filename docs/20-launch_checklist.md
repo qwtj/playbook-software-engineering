@@ -1,6 +1,6 @@
 # Launch Checklist
 
-> **Navigation:** [Home](README.md) | Previous: [Final Validations](18-final_validations.md)
+> **Navigation:** [Home](README.md) | Previous: [End User Training & Change Management](19-end_user_training_and_change_management.md) | Next: [Post-Launch Operations](21-post_launch_operations.md)
 >
 > **Prerequisites:** Complete all documents (1-12) and pass [Final Validations](18-final_validations.md)
 >

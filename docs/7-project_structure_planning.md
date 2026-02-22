@@ -1,6 +1,6 @@
-# Project Structure Requirements Gathering
+# Project Structure Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Architecture Planning](2-architecture_planning.md) | Next: [Infrastructure Guidelines](8-infrastructure_guidelines.md)
+> **Navigation:** [Home](README.md) | Previous: [Architecture Planning](6-architecture_planning.md) | Next: [Infrastructure Guidelines](8-infrastructure_guidelines.md)
 >
 > **Prerequisites:** Complete [Architecture Planning](2-architecture_planning.md) first
 >

@@ -1,11 +1,15 @@
 # User Acceptance Testing (UAT) & Pilot
 
-> **Navigation:** [Home](README.md) | Next: [Launch Checklist](20-launch_checklist.md)
+> **Navigation:** [Home](README.md) | Previous: [Performance & Optimization Planning](16-performance_and_optimization_planning.md) | Next: [Final Validations](18-final_validations.md)
 >
 > **Prerequisites:** [Final Validations](18-final_validations.md)
 >
 > **Related Documents:**
-> - [Testing Strategy](5-testing_strategy.md)
+> - [Testing Strategy](5-testing_strategy.md) - Testing approach and methodologies
+> - [End User Training & Change Management](19-end_user_training_and_change_management.md) - User preparation for pilot
+> - [Final Validations](18-final_validations.md) - Pre-pilot validation requirements
+> - [Observability Stack Planning](12-observability_stack_planning.md) - Monitoring during pilot phase
+> - [Post-Launch Operations](21-post_launch_operations.md) - Operational procedures post-pilot
 
 ---
 
