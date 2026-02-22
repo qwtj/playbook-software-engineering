@@ -1,6 +1,6 @@
 # User Acceptance Testing (UAT) & Pilot
 
-> **Navigation:** [Home](README.md) | Next: [Launch Checklist](20-launch_checklist.md)
+> **Navigation:** [Home](../README.md) | Next: [Launch Checklist](20-launch_checklist.md)
 >
 > **Prerequisites:** [Final Validations](18-final_validations.md)
 >

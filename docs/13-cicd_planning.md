@@ -1,6 +1,6 @@
 # CI/CD Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Observability Stack Planning](12-observability_stack_planning.md) | Next: [Performance & Optimization](16-performance_and_optimization_planning.md)
+> **Navigation:** [Home](../README.md) | Previous: [Observability Stack Planning](12-observability_stack_planning.md) | Next: [Performance & Optimization](16-performance_and_optimization_planning.md)
 >
 > **Prerequisites:** Complete [Project Structure Planning](7-project_structure_planning.md) and [Compute Selection](9-compute_selection.md)
 >

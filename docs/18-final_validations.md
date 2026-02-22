@@ -1,6 +1,6 @@
 # Final Validations
 
-> **Navigation:** [Home](README.md) | Previous: [Performance & Optimization](16-performance_and_optimization_planning.md) | Next: [Launch Checklist](20-launch_checklist.md)
+> **Navigation:** [Home](../README.md) | Previous: [Performance & Optimization](16-performance_and_optimization_planning.md) | Next: [Launch Checklist](20-launch_checklist.md)
 >
 > **Prerequisites:** Complete all previous documents (1-11) before final validations
 >

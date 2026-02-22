@@ -1,6 +1,6 @@
 # Cost Optimization and FinOps Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Launch Checklist](20-launch_checklist.md)
+> **Navigation:** [Home](../README.md) | Previous: [Launch Checklist](20-launch_checklist.md)
 >
 > **Prerequisites:** Review [Architecture Planning](6-architecture_planning.md) and [Compute Selection](9-compute_selection.md)
 >

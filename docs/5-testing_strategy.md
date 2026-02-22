@@ -1,6 +1,6 @@
 # Testing Strategy Guide
 
-> **Navigation:** [Home](README.md) | Previous: [Post-Launch Operations](21-post_launch_operations.md)
+> **Navigation:** [Home](../README.md) | Previous: [Post-Launch Operations](21-post_launch_operations.md)
 >
 > **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) and [CI/CD Planning](13-cicd_planning.md)
 >

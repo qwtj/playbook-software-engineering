@@ -1,11 +1,11 @@
 # Project Structure Requirements Gathering
 
-> **Navigation:** [Home](README.md) | Previous: [Architecture Planning](2-architecture_planning.md) | Next: [Infrastructure Guidelines](8-infrastructure_guidelines.md)
+> **Navigation:** [Home](../README.md) | Previous: [Architecture Planning](6-architecture_planning.md) | Next: [Infrastructure Guidelines](8-infrastructure_guidelines.md)
 >
-> **Prerequisites:** Complete [Architecture Planning](2-architecture_planning.md) first
+> **Prerequisites:** Complete [Architecture Planning](6-architecture_planning.md) first
 >
 > **Related Documents:**
-> - [Architecture Planning](2-architecture_planning.md) - High-level decisions affecting structure
+> - [Architecture Planning](6-architecture_planning.md) - High-level decisions affecting structure
 > - [CI/CD Planning](13-cicd_planning.md) - Pipeline integration with project structure
 > - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - IaC implementation details
 

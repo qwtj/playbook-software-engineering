@@ -1,6 +1,6 @@
 # Requirements Gathering Document
 
-> **Navigation:** [Home](README.md) | Next: [Architecture Planning](6-architecture_planning.md)
+> **Navigation:** [Home](../README.md) | Next: [Architecture Planning](6-architecture_planning.md)
 >
 > **Prerequisites:** None - this is the starting document
 >

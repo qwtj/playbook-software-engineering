@@ -1,6 +1,6 @@
 # Launch Checklist
 
-> **Navigation:** [Home](README.md) | Previous: [Final Validations](18-final_validations.md)
+> **Navigation:** [Home](../README.md) | Previous: [Final Validations](18-final_validations.md)
 >
 > **Prerequisites:** Complete all documents (1-12) and pass [Final Validations](18-final_validations.md)
 >

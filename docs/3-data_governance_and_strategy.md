@@ -1,6 +1,6 @@
 # Data Governance & Strategy
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](../README.md)
 >
 > **Prerequisites:** [Database & Storage Planning](10-database_and_storage_planning.md)
 >

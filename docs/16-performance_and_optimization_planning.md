@@ -1,6 +1,6 @@
 # Performance and Optimization Planning
 
-> **Navigation:** [Home](README.md) | Previous: [CI/CD Planning](13-cicd_planning.md) | Next: [Final Validations](18-final_validations.md)
+> **Navigation:** [Home](../README.md) | Previous: [CI/CD Planning](13-cicd_planning.md) | Next: [Final Validations](18-final_validations.md)
 >
 > **Prerequisites:** Complete [Compute Selection](9-compute_selection.md) and [Database & Storage Planning](10-database_and_storage_planning.md)
 >

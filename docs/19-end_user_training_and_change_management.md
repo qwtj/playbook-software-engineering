@@ -1,6 +1,6 @@
 # End-User Training & Change Management
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](../README.md)
 >
 > **Prerequisites:** UAT Completed
 >

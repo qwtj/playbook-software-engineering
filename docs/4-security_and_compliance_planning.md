@@ -1,6 +1,6 @@
 # Security and Compliance Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Networking & Load Balancing](11-networking_and_load_balancing.md) | Next: [Observability Stack Planning](12-observability_stack_planning.md)
+> **Navigation:** [Home](../README.md) | Previous: [Networking & Load Balancing](11-networking_and_load_balancing.md) | Next: [Observability Stack Planning](12-observability_stack_planning.md)
 >
 > **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) (section 4 Security) and [Infrastructure Guidelines](8-infrastructure_guidelines.md)
 >

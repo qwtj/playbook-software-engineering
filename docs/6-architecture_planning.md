@@ -1,6 +1,6 @@
 # Architecture Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Requirements Gathering](1-requirements_gathering.md) | Next: [Project Structure Planning](7-project_structure_planning.md)
+> **Navigation:** [Home](../README.md) | Previous: [Requirements Gathering](1-requirements_gathering.md) | Next: [Project Structure Planning](7-project_structure_planning.md)
 >
 > **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) first
 >

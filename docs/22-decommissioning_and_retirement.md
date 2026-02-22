@@ -1,6 +1,6 @@
 # Decommissioning & Retirement (End of Life)
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](../README.md)
 >
 > **Prerequisites:** New system operational (if replacing) or Product Decision to Sunset
 >
