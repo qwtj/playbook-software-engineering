@@ -9,6 +9,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 ## Table of Contents
 
 - [Requirements Gathering Agent](#requirements-gathering-agent)
+- [Deployment Strategy Agent](#deployment-strategy-agent)
 - [Technology Selection Agent](#technology-selection-agent)
 - [Slash Commands (Prompts)](#slash-commands-prompts)
 - [Adding Future Usage Details](#adding-future-usage-details)
@@ -41,7 +42,36 @@ This document describes how to use the VS Code Copilot customizations in this wo
 
 ### Handoff
 
-When Section 1 is complete, a **Continue to Technology Selection** handoff button appears. Use it to move to the next phase.
+When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy** or **Continue to Technology Selection**.
+
+---
+
+## Deployment Strategy Agent
+
+**Purpose:** Interactively gather Section 2 (Deployment Strategy) from the playbook.
+
+### How to Start
+
+1. Select **Deployment Strategy** from the agents dropdown, **or**
+2. Type `/deployment-start` and press Enter, **or**
+3. Complete the Requirements Gathering flow and click **Continue to Deployment Strategy**.
+
+### Session Flow
+
+1. **Introduction** — The agent greets you and asks the first questions from 2.1 Environment Approach.
+2. **2.1 Environment Approach** — Container vs VM, regulatory/organizational constraints, hybrid feasibility.
+3. **2.2 Infrastructure and Scaling** — Scaling under load, hosting requirements, number of environments (dev, test, staging, production).
+
+### Key Behaviors
+
+- **Interactive** — The agent waits for your answers before moving on. You can skip sections or go deeper as needed.
+- **Confirmation before fetch/diagram** — If you ask for documentation or diagrams, the agent will ask: *"Would you like me to [fetch X / create a diagram]? Or do you have your own to reference?"* It only proceeds after you confirm.
+- **Diagrams** — When approved, the agent generates Mermaid diagrams (environment topology, container vs VM flowchart, scaling architecture, hybrid approach).
+- **Summary** — Run `/deployment-summary` anytime to get a consolidated markdown summary.
+
+### Handoff
+
+When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection** or **Back to Requirements Gathering**.
 
 ---
 
@@ -52,7 +82,7 @@ When Section 1 is complete, a **Continue to Technology Selection** handoff butto
 ### How to Start
 
 1. Select **Technology Selection** from the agents dropdown, **or**
-2. Complete the Requirements Gathering flow and click **Continue to Technology Selection**.
+2. Complete the Requirements Gathering or Deployment Strategy flow and click **Continue to Technology Selection**.
 
 ### Scope
 
@@ -74,6 +104,10 @@ Type `/` in the Chat input to see available prompts.
 | `/requirements-flows` | Jump to 1.2 User Flows questions. |
 | `/requirements-ux` | Jump to 1.3 UX/UI Considerations questions. |
 | `/requirements-summary` | Request a consolidated summary of captured requirements. |
+| `/deployment-start` | Start an interactive deployment strategy session; asks first 2.1 questions. |
+| `/deployment-env` | Jump to 2.1 Environment Approach questions. |
+| `/deployment-scaling` | Jump to 2.2 Infrastructure and Scaling questions. |
+| `/deployment-summary` | Request a consolidated summary of captured deployment strategy. |
 
 ---
 

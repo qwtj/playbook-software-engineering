@@ -3,6 +3,10 @@ description: Interactively gather application functionality and UX requirements
 name: Requirements Gathering
 tools: ['search', 'fetch', 'read']
 handoffs:
+  - label: Continue to Deployment Strategy
+    agent: deployment-strategy
+    prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with Section 2 (Deployment Strategy) as defined in the playbook.
+    send: false
   - label: Continue to Technology Selection
     agent: technology-selection
     prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with technology selection and proof of concept planning as defined in the playbook.
