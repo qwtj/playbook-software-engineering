@@ -10,7 +10,7 @@ All documents must follow this exact header structure:
 ```markdown
 # Document Title
 
-> **Navigation:** [Home](README.md) | Previous: [Previous Doc](previous-doc.md) | Next: [Next Doc](next-doc.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Previous Doc](previous-doc.md) | Next: [Next Doc](next-doc.md)
 >
 > **Prerequisites:** Complete [Required Doc](required-doc.md) or brief description
 >

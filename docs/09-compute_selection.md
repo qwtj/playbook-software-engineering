@@ -1,12 +1,12 @@
 # Compute Selection
 
-> **Navigation:** [Home](../README.md) | Previous: [Infrastructure Guidelines](8-infrastructure_guidelines.md) | Next: [Database & Storage Planning](10-database_and_storage_planning.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Infrastructure Guidelines](08-infrastructure_guidelines.md) | Next: [Database & Storage Planning](10-database_and_storage_planning.md)
 >
-> **Prerequisites:** Complete [Architecture Planning](6-architecture_planning.md) (section 2.2 Serverless vs Compute)
+> **Prerequisites:** Complete [Architecture Planning](06-architecture_planning.md) (section 2.2 Serverless vs Compute)
 >
 > **Related Documents:**
-> - [Architecture Planning](6-architecture_planning.md) - High-level compute architecture decisions
-> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - VPC and networking context
+> - [Architecture Planning](06-architecture_planning.md) - High-level compute architecture decisions
+> - [Infrastructure Guidelines](08-infrastructure_guidelines.md) - VPC and networking context
 > - [Performance & Optimization](16-performance_and_optimization_planning.md) - Compute sizing and scaling
 > - [CI/CD Planning](13-cicd_planning.md) - Deployment target configuration
 

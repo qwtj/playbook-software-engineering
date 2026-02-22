@@ -1,13 +1,13 @@
 # Architecture Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Testing Strategy](5-testing_strategy.md) | Next: [Project Structure Planning](7-project_structure_planning.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Testing Strategy](05-testing_strategy.md) | Next: [Project Structure Planning](07-project_structure_planning.md)
 >
-> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) first
+> **Prerequisites:** Complete [Requirements Gathering](01-requirements_gathering.md) first
 >
 > **Related Documents:**
-> - [Requirements Gathering](1-requirements_gathering.md) - Initial functional requirements informing architecture
-> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Implements architecture decisions
-> - [Compute Selection](9-compute_selection.md) - Serverless vs compute decisions
+> - [Requirements Gathering](01-requirements_gathering.md) - Initial functional requirements informing architecture
+> - [Infrastructure Guidelines](08-infrastructure_guidelines.md) - Implements architecture decisions
+> - [Compute Selection](09-compute_selection.md) - Serverless vs compute decisions
 > - [Networking & Load Balancing](11-networking_and_load_balancing.md) - Multi-region implementation
 
 ---

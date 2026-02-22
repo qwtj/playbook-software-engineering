@@ -1,12 +1,12 @@
 # Cost Optimization & FinOps
 
-> **Navigation:** [Home](README.md) | Previous: [Disaster Recovery Planning](14-disaster_recovery_planning.md) | Next: [Performance & Optimization Planning](16-performance_and_optimization_planning.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Disaster Recovery Planning](14-disaster_recovery_planning.md) | Next: [Performance & Optimization Planning](16-performance_and_optimization_planning.md)
 >
-> **Prerequisites:** Review [Architecture Planning](6-architecture_planning.md) and [Compute Selection](9-compute_selection.md)
+> **Prerequisites:** Review [Architecture Planning](06-architecture_planning.md) and [Compute Selection](09-compute_selection.md)
 >
 > **Related Documents:**
-> - [Architecture Planning](6-architecture_planning.md) - Cost implications of architecture decisions
-> - [Compute Selection](9-compute_selection.md) - Compute cost considerations
+> - [Architecture Planning](06-architecture_planning.md) - Cost implications of architecture decisions
+> - [Compute Selection](09-compute_selection.md) - Compute cost considerations
 > - [Database & Storage Planning](10-database_and_storage_planning.md) - Storage cost planning
 > - [Observability Stack Planning](12-observability_stack_planning.md) - Monitoring costs
 

@@ -1,12 +1,12 @@
 # Observability Stack Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Networking & Load Balancing](11-networking_and_load_balancing.md) | Next: [CI/CD Planning](13-cicd_planning.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Networking & Load Balancing](11-networking_and_load_balancing.md) | Next: [CI/CD Planning](13-cicd_planning.md)
 >
-> **Prerequisites:** Complete [Infrastructure Guidelines](8-infrastructure_guidelines.md) (monitoring section)
+> **Prerequisites:** Complete [Infrastructure Guidelines](08-infrastructure_guidelines.md) (monitoring section)
 >
 > **Related Documents:**
-> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Monitoring and logging foundations
-> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Compliance logging requirements
+> - [Infrastructure Guidelines](08-infrastructure_guidelines.md) - Monitoring and logging foundations
+> - [Security & Compliance Planning](04-security_and_compliance_planning.md) - Compliance logging requirements
 > - [CI/CD Planning](13-cicd_planning.md) - Pipeline monitoring integration
 > - [Performance & Optimization](16-performance_and_optimization_planning.md) - Performance metrics and dashboards
 

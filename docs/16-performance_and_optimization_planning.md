@@ -1,12 +1,12 @@
 # Performance & Optimization Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Cost Optimization & FinOps](15-cost_optimization_and_finops.md) | Next: [UAT & Pilot](17-uat_and_pilot.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Cost Optimization & FinOps](15-cost_optimization_and_finops.md) | Next: [UAT & Pilot](17-uat_and_pilot.md)
 >
-> **Prerequisites:** Complete [Compute Selection](9-compute_selection.md) and [Database & Storage Planning](10-database_and_storage_planning.md)
+> **Prerequisites:** Complete [Compute Selection](09-compute_selection.md) and [Database & Storage Planning](10-database_and_storage_planning.md)
 >
 > **Related Documents:**
-> - [Requirements Gathering](1-requirements_gathering.md) - Initial performance requirements
-> - [Compute Selection](9-compute_selection.md) - Compute sizing foundations
+> - [Requirements Gathering](01-requirements_gathering.md) - Initial performance requirements
+> - [Compute Selection](09-compute_selection.md) - Compute sizing foundations
 > - [Database & Storage Planning](10-database_and_storage_planning.md) - Storage throughput requirements
 > - [Observability Stack Planning](12-observability_stack_planning.md) - Performance metrics and dashboards
 

@@ -1,13 +1,13 @@
 # Networking & Load Balancing
 
-> **Navigation:** [Home](README.md) | Previous: [Database & Storage Planning](10-database_and_storage_planning.md) | Next: [Observability Stack Planning](12-observability_stack_planning.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Database & Storage Planning](10-database_and_storage_planning.md) | Next: [Observability Stack Planning](12-observability_stack_planning.md)
 >
-> **Prerequisites:** Complete [Infrastructure Guidelines](8-infrastructure_guidelines.md) (VPC/subnet configuration)
+> **Prerequisites:** Complete [Infrastructure Guidelines](08-infrastructure_guidelines.md) (VPC/subnet configuration)
 >
 > **Related Documents:**
-> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - VPC and subnet foundation
-> - [Compute Selection](9-compute_selection.md) - Load balancer targets
-> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Network security rules
+> - [Infrastructure Guidelines](08-infrastructure_guidelines.md) - VPC and subnet foundation
+> - [Compute Selection](09-compute_selection.md) - Load balancer targets
+> - [Security & Compliance Planning](04-security_and_compliance_planning.md) - Network security rules
 > - [Performance & Optimization](16-performance_and_optimization_planning.md) - Auto-scaling thresholds
 
 ---

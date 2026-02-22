@@ -1,12 +1,12 @@
 # Database & Storage Planning
 
-> **Navigation:** [Home](../README.md) | Previous: [Compute Selection](9-compute_selection.md) | Next: [Networking & Load Balancing](11-networking_and_load_balancing.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Compute Selection](09-compute_selection.md) | Next: [Networking & Load Balancing](11-networking_and_load_balancing.md)
 >
-> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) (section 3 Database) and [Architecture Planning](6-architecture_planning.md)
+> **Prerequisites:** Complete [Requirements Gathering](01-requirements_gathering.md) (section 3 Database) and [Architecture Planning](06-architecture_planning.md)
 >
 > **Related Documents:**
-> - [Requirements Gathering](1-requirements_gathering.md) - Initial database requirements
-> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Data encryption requirements
+> - [Requirements Gathering](01-requirements_gathering.md) - Initial database requirements
+> - [Security & Compliance Planning](04-security_and_compliance_planning.md) - Data encryption requirements
 > - [Performance & Optimization](16-performance_and_optimization_planning.md) - Storage throughput and caching
 > - [Final Validations](18-final_validations.md) - Data validation checks
 

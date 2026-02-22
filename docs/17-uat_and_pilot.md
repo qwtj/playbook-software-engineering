@@ -1,11 +1,11 @@
 # UAT & Pilot
 
-> **Navigation:** [Home](README.md) | Previous: [Performance & Optimization Planning](16-performance_and_optimization_planning.md) | Next: [Final Validations](18-final_validations.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Performance & Optimization Planning](16-performance_and_optimization_planning.md) | Next: [Final Validations](18-final_validations.md)
 >
-> **Prerequisites:** Complete [Testing Strategy](5-testing_strategy.md) and [Performance & Optimization Planning](16-performance_and_optimization_planning.md)
+> **Prerequisites:** Complete [Testing Strategy](05-testing_strategy.md) and [Performance & Optimization Planning](16-performance_and_optimization_planning.md)
 >
 > **Related Documents:**
-> - [Testing Strategy](5-testing_strategy.md) - Testing approach and methodologies
+> - [Testing Strategy](05-testing_strategy.md) - Testing approach and methodologies
 > - [End User Training & Change Management](19-end_user_training_and_change_management.md) - User preparation for pilot
 > - [Final Validations](18-final_validations.md) - Pre-pilot validation requirements
 > - [Observability Stack Planning](12-observability_stack_planning.md) - Monitoring during pilot phase

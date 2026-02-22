@@ -1,12 +1,12 @@
 # Project Structure Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Architecture Planning](6-architecture_planning.md) | Next: [Infrastructure Guidelines](8-infrastructure_guidelines.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Architecture Planning](06-architecture_planning.md) | Next: [Infrastructure Guidelines](08-infrastructure_guidelines.md)
 
-> **Prerequisites:** Complete [Architecture Planning](6-architecture_planning.md)
+> **Prerequisites:** Complete [Architecture Planning](06-architecture_planning.md)
 
 > **Related Documents:**
-> - [Architecture Planning](6-architecture_planning.md) - High-level architecture decisions
-> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Infrastructure as Code structure
+> - [Architecture Planning](06-architecture_planning.md) - High-level architecture decisions
+> - [Infrastructure Guidelines](08-infrastructure_guidelines.md) - Infrastructure as Code structure
 > - [CI/CD Planning](13-cicd_planning.md) - Pipeline integration with project structure
 
 ---

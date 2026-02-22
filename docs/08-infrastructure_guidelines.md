@@ -1,13 +1,13 @@
 # Infrastructure Guidelines
 
-> **Navigation:** [Home](../README.md) | Previous: [Project Structure Planning](7-project_structure_planning.md) | Next: [Compute Selection](9-compute_selection.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Project Structure Planning](07-project_structure_planning.md) | Next: [Compute Selection](09-compute_selection.md)
 >
-> **Prerequisites:** Complete [Architecture Planning](6-architecture_planning.md) and [Project Structure Planning](7-project_structure_planning.md)
+> **Prerequisites:** Complete [Architecture Planning](06-architecture_planning.md) and [Project Structure Planning](07-project_structure_planning.md)
 >
 > **Related Documents:**
-> - [Compute Selection](9-compute_selection.md) - Detailed compute platform decisions
+> - [Compute Selection](09-compute_selection.md) - Detailed compute platform decisions
 > - [Networking & Load Balancing](11-networking_and_load_balancing.md) - Network implementation
-> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Security implementation
+> - [Security & Compliance Planning](04-security_and_compliance_planning.md) - Security implementation
 > - [Observability Stack Planning](12-observability_stack_planning.md) - Monitoring implementation
 
 ---

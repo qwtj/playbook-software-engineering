@@ -1,13 +1,13 @@
 # CI/CD Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Observability Stack Planning](12-observability_stack_planning.md) | Next: [Disaster Recovery Planning](14-disaster_recovery_planning.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Observability Stack Planning](12-observability_stack_planning.md) | Next: [Disaster Recovery Planning](14-disaster_recovery_planning.md)
 >
-> **Prerequisites:** Complete [Project Structure Planning](7-project_structure_planning.md) and [Compute Selection](9-compute_selection.md)
+> **Prerequisites:** Complete [Project Structure Planning](07-project_structure_planning.md) and [Compute Selection](09-compute_selection.md)
 >
 > **Related Documents:**
-> - [Project Structure Planning](7-project_structure_planning.md) - Repository and IaC structure
-> - [Compute Selection](9-compute_selection.md) - Deployment targets
-> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Security scanning requirements
+> - [Project Structure Planning](07-project_structure_planning.md) - Repository and IaC structure
+> - [Compute Selection](09-compute_selection.md) - Deployment targets
+> - [Security & Compliance Planning](04-security_and_compliance_planning.md) - Security scanning requirements
 > - [Observability Stack Planning](12-observability_stack_planning.md) - Pipeline monitoring
 
 ---

@@ -1,14 +1,14 @@
 # Security & Compliance Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Data Governance & Strategy](3-data_governance_and_strategy.md) | Next: [Testing Strategy](5-testing_strategy.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Data Governance & Strategy](03-data_governance_and_strategy.md) | Next: [Testing Strategy](05-testing_strategy.md)
 >
-> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) (section 4 Security) and [Data Governance & Strategy](3-data_governance_and_strategy.md)
+> **Prerequisites:** Complete [Requirements Gathering](01-requirements_gathering.md) (section 4 Security) and [Data Governance & Strategy](03-data_governance_and_strategy.md)
 >
 > **Related Documents:**
-> - [Requirements Gathering](1-requirements_gathering.md) - Initial security and compliance requirements
-> - [Data Governance & Strategy](3-data_governance_and_strategy.md) - Data classification and governance framework
-> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Security implementation in infrastructure
-> - [Testing Strategy](5-testing_strategy.md) - Security testing requirements
+> - [Requirements Gathering](01-requirements_gathering.md) - Initial security and compliance requirements
+> - [Data Governance & Strategy](03-data_governance_and_strategy.md) - Data classification and governance framework
+> - [Infrastructure Guidelines](08-infrastructure_guidelines.md) - Security implementation in infrastructure
+> - [Testing Strategy](05-testing_strategy.md) - Security testing requirements
 
 ---
 

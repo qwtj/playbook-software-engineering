@@ -1,6 +1,6 @@
 # Post-Launch Operations
 
-> **Navigation:** [Home](README.md) | Previous: [Launch Checklist](20-launch_checklist.md) | Next: [Decommissioning & Retirement](22-decommissioning_and_retirement.md)
+> **Navigation:** [Home](00-documentation_index.md) | Previous: [Launch Checklist](20-launch_checklist.md) | Next: [Decommissioning & Retirement](22-decommissioning_and_retirement.md)
 >
 > **Prerequisites:** Complete [Launch Checklist](20-launch_checklist.md) and system launch
 >
