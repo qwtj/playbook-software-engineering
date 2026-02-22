@@ -1,9 +1,9 @@
 # Project Structure Planning
 
 > **Navigation:** [Home](README.md) | Previous: [Architecture Planning](6-architecture_planning.md) | Next: [Infrastructure Guidelines](8-infrastructure_guidelines.md)
->
+
 > **Prerequisites:** Complete [Architecture Planning](6-architecture_planning.md)
->
+
 > **Related Documents:**
 > - [Architecture Planning](6-architecture_planning.md) - High-level architecture decisions
 > - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Infrastructure as Code structure

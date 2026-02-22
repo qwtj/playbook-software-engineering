@@ -3,7 +3,6 @@
 > **Navigation:** [Home](README.md) | Previous: [Technology Selection & PoC](2-technology_selection_and_poc.md) | Next: [Security & Compliance Planning](4-security_and_compliance_planning.md)
 
 > **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) first
-
 > **Related Documents:**
 > - [Requirements Gathering](1-requirements_gathering.md) - Data requirements identification
 > - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Data protection policies

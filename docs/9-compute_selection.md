@@ -1,6 +1,6 @@
 # Compute Selection
 
-> **Navigation:** [Home](README.md) | Previous: [Infrastructure Guidelines](8-infrastructure_guidelines.md) | Next: [Database & Storage Planning](10-database_and_storage_planning.md)
+> **Navigation:** [Home](../README.md) | Previous: [Infrastructure Guidelines](8-infrastructure_guidelines.md) | Next: [Database & Storage Planning](10-database_and_storage_planning.md)
 >
 > **Prerequisites:** Complete [Architecture Planning](6-architecture_planning.md) (section 2.2 Serverless vs Compute)
 >

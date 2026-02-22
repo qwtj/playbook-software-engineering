@@ -1,6 +1,6 @@
 # Infrastructure Guidelines
 
-> **Navigation:** [Home](README.md) | Previous: [Project Structure Planning](7-project_structure_planning.md) | Next: [Compute Selection](9-compute_selection.md)
+> **Navigation:** [Home](../README.md) | Previous: [Project Structure Planning](7-project_structure_planning.md) | Next: [Compute Selection](9-compute_selection.md)
 >
 > **Prerequisites:** Complete [Architecture Planning](6-architecture_planning.md) and [Project Structure Planning](7-project_structure_planning.md)
 >
