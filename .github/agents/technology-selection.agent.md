@@ -2,6 +2,11 @@
 description: Guide through technology selection and proof of concept planning
 name: Technology Selection
 tools: ['search', 'fetch', 'read']
+handoffs:
+  - label: Back to Database & Data Management
+    agent: database-data-management
+    prompt: I'd like to go back and complete Section 3 (Database and Data Management). Please help me as defined in the playbook.
+    send: false
 ---
 
 # Technology Selection Agent

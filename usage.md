@@ -10,6 +10,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 
 - [Requirements Gathering Agent](#requirements-gathering-agent)
 - [Deployment Strategy Agent](#deployment-strategy-agent)
+- [Database & Data Management Agent](#database--data-management-agent)
 - [Technology Selection Agent](#technology-selection-agent)
 - [Slash Commands (Prompts)](#slash-commands-prompts)
 - [Adding Future Usage Details](#adding-future-usage-details)
@@ -42,7 +43,7 @@ This document describes how to use the VS Code Copilot customizations in this wo
 
 ### Handoff
 
-When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy** or **Continue to Technology Selection**.
+When Section 1 is complete, handoff buttons appear: **Continue to Deployment Strategy**, **Continue to Database & Data Management**, or **Continue to Technology Selection**.
 
 ---
 
@@ -71,7 +72,37 @@ When Section 1 is complete, handoff buttons appear: **Continue to Deployment Str
 
 ### Handoff
 
-When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection** or **Back to Requirements Gathering**.
+When Section 2 is complete, handoff buttons appear: **Continue to Technology Selection**, **Continue to Database & Data Management**, or **Back to Requirements Gathering**.
+
+---
+
+## Database & Data Management Agent
+
+**Purpose:** Interactively gather Section 3 (Database and Data Management) from the playbook.
+
+### How to Start
+
+1. Select **Database & Data Management** from the agents dropdown, **or**
+2. Type `/database-start` and press Enter, **or**
+3. Complete the Requirements Gathering or Deployment Strategy flow and click **Continue to Database & Data Management**.
+
+### Session Flow
+
+1. **Introduction** — The agent greets you and asks the first questions from 3.1 Database Requirements.
+2. **3.1 Database Requirements** — Database type (relational, NoSQL), data volume and transactions, retention and compliance.
+3. **3.2 Caching** — Data to cache, invalidation/consistency, dedicated caching service.
+4. **3.3 Messaging and Integration** — Messages/events between services, message broker (RabbitMQ, Kafka, etc.), protocols and standards.
+
+### Key Behaviors
+
+- **Interactive** — The agent waits for your answers before moving on. You can skip sections or go deeper as needed.
+- **Confirmation before fetch/diagram** — If you ask for documentation or diagrams, the agent will ask: *"Would you like me to [fetch X / create a diagram]? Or do you have your own to reference?"* It only proceeds after you confirm.
+- **Diagrams** — When approved, the agent generates Mermaid diagrams (database topology, caching architecture, message flow, integration diagrams).
+- **Summary** — Run `/database-summary` anytime to get a consolidated markdown summary.
+
+### Handoff
+
+When Section 3 is complete, handoff buttons appear: **Continue to Technology Selection**, **Back to Requirements Gathering**, or **Back to Deployment Strategy**.
 
 ---
 
@@ -82,7 +113,7 @@ When Section 2 is complete, handoff buttons appear: **Continue to Technology Sel
 ### How to Start
 
 1. Select **Technology Selection** from the agents dropdown, **or**
-2. Complete the Requirements Gathering or Deployment Strategy flow and click **Continue to Technology Selection**.
+2. Complete the Requirements Gathering, Deployment Strategy, or Database & Data Management flow and click **Continue to Technology Selection**.
 
 ### Scope
 
@@ -90,6 +121,10 @@ When Section 2 is complete, handoff buttons appear: **Continue to Technology Sel
 - Technology stack selection
 - Proof of concept / vertical slice
 - Decision log
+
+### Handoff
+
+You can click **Back to Database & Data Management** to return to Section 3.
 
 ---
 
@@ -108,6 +143,11 @@ Type `/` in the Chat input to see available prompts.
 | `/deployment-env` | Jump to 2.1 Environment Approach questions. |
 | `/deployment-scaling` | Jump to 2.2 Infrastructure and Scaling questions. |
 | `/deployment-summary` | Request a consolidated summary of captured deployment strategy. |
+| `/database-start` | Start an interactive database and data management session; asks first 3.1 questions. |
+| `/database-requirements` | Jump to 3.1 Database Requirements questions. |
+| `/database-caching` | Jump to 3.2 Caching questions. |
+| `/database-messaging` | Jump to 3.3 Messaging and Integration questions. |
+| `/database-summary` | Request a consolidated summary of captured database and data management requirements. |
 
 ---
 

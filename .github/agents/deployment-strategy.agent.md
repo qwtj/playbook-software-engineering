@@ -7,6 +7,10 @@ handoffs:
     agent: technology-selection
     prompt: I've completed Section 2 (Deployment Strategy). Please help me with technology selection and proof of concept planning as defined in the playbook.
     send: false
+  - label: Continue to Database & Data Management
+    agent: database-data-management
+    prompt: I've completed Section 2 (Deployment Strategy). Please help me with Section 3 (Database and Data Management) as defined in the playbook.
+    send: false
   - label: Back to Requirements Gathering
     agent: requirements-gathering
     prompt: I'd like to go back and complete Section 1 (Application Functionality and User Experience). Please help me with requirements gathering as defined in the playbook.

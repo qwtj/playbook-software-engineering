@@ -7,6 +7,10 @@ handoffs:
     agent: deployment-strategy
     prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with Section 2 (Deployment Strategy) as defined in the playbook.
     send: false
+  - label: Continue to Database & Data Management
+    agent: database-data-management
+    prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with Section 3 (Database and Data Management) as defined in the playbook.
+    send: false
   - label: Continue to Technology Selection
     agent: technology-selection
     prompt: I've completed Section 1 (Application Functionality and User Experience). Please help me with technology selection and proof of concept planning as defined in the playbook.
