@@ -1,8 +1,8 @@
-# User Acceptance Testing (UAT) & Pilot
+# UAT & Pilot
 
-> **Navigation:** [Home](README.md) | Next: [Launch Checklist](20-launch_checklist.md)
+> **Navigation:** [Home](README.md) | Previous: [Performance & Optimization Planning](16-performance_and_optimization_planning.md) | Next: [Final Validations](18-final_validations.md)
 >
-> **Prerequisites:** [Final Validations](18-final_validations.md)
+> **Prerequisites:** Complete [Testing Strategy](5-testing_strategy.md) and [Performance & Optimization Planning](16-performance_and_optimization_planning.md)
 >
 > **Related Documents:**
 > - [Testing Strategy](5-testing_strategy.md)

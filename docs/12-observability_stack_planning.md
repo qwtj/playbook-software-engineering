@@ -1,6 +1,6 @@
 # Observability Stack Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Security & Compliance Planning](4-security_and_compliance_planning.md) | Next: [CI/CD Planning](13-cicd_planning.md)
+> **Navigation:** [Home](README.md) | Previous: [Networking & Load Balancing](11-networking_and_load_balancing.md) | Next: [CI/CD Planning](13-cicd_planning.md)
 >
 > **Prerequisites:** Complete [Infrastructure Guidelines](8-infrastructure_guidelines.md) (monitoring section)
 >
@@ -11,8 +11,6 @@
 > - [Performance & Optimization](16-performance_and_optimization_planning.md) - Performance metrics and dashboards
 
 ---
-
-## 1. Observability Stack Requirements Gathering
 
 ## 1. Observability Goals
 - What business objectives or outcomes should the observability solution support?

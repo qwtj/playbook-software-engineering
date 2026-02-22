@@ -1,6 +1,6 @@
-# Performance and Optimization Planning
+# Performance & Optimization Planning
 
-> **Navigation:** [Home](README.md) | Previous: [CI/CD Planning](13-cicd_planning.md) | Next: [Final Validations](18-final_validations.md)
+> **Navigation:** [Home](README.md) | Previous: [Cost Optimization & FinOps](15-cost_optimization_and_finops.md) | Next: [UAT & Pilot](17-uat_and_pilot.md)
 >
 > **Prerequisites:** Complete [Compute Selection](9-compute_selection.md) and [Database & Storage Planning](10-database_and_storage_planning.md)
 >
@@ -11,8 +11,6 @@
 > - [Observability Stack Planning](12-observability_stack_planning.md) - Performance metrics and dashboards
 
 ---
-
-## 1. Performance Testing and Optimization Requirements
 
 ## 1. Introduction
 ### 1.1 Project Context

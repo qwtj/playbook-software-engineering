@@ -1,17 +1,18 @@
 # Data Governance & Strategy
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](README.md) | Previous: [Technology Selection & POC](2-technology_selection_and_poc.md) | Next: [Security & Compliance Planning](4-security_and_compliance_planning.md)
 >
-> **Prerequisites:** [Database & Storage Planning](10-database_and_storage_planning.md)
+> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md)
 >
 > **Related Documents:**
-> - [Security & Compliance](4-security_and_compliance_planning.md)
-> - [Launch Checklist](20-launch_checklist.md)
+> - [Requirements Gathering](1-requirements_gathering.md) - Defines data handling requirements
+> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Implements data governance controls
+> - [Database & Storage Planning](10-database_and_storage_planning.md) - Storage strategy for governed data
 
 ---
 
 ## 1. Data Classification
-categorize data to apply appropriate controls.
+Categorize data to apply appropriate controls.
 
 ### 1.1 Data Types
 - **Public:** Marketing data, generic content.

@@ -1,8 +1,8 @@
 # Launch Checklist
 
-> **Navigation:** [Home](README.md) | Previous: [Final Validations](18-final_validations.md)
+> **Navigation:** [Home](README.md) | Previous: [End User Training & Change Management](19-end_user_training_and_change_management.md) | Next: [Post-Launch Operations](21-post_launch_operations.md)
 >
-> **Prerequisites:** Complete all documents (1-12) and pass [Final Validations](18-final_validations.md)
+> **Prerequisites:** Complete [End User Training & Change Management](19-end_user_training_and_change_management.md) and pass [Final Validations](18-final_validations.md)
 >
 > **Related Documents:**
 > - [Final Validations](18-final_validations.md) - Validation checks that must pass before launch
@@ -11,8 +11,6 @@
 > - [Observability Stack Planning](12-observability_stack_planning.md) - Monitoring readiness
 
 ---
-
-## 1. High-Level Requirements Gathering Document
 
 ## 1. Project Overview
 ### 1.1 Purpose

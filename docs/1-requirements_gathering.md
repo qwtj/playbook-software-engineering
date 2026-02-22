@@ -1,14 +1,14 @@
-# Requirements Gathering Document
+# Requirements Gathering
 
-> **Navigation:** [Home](README.md) | Next: [Architecture Planning](6-architecture_planning.md)
+> **Navigation:** [Home](README.md) | Next: [Technology Selection & POC](2-technology_selection_and_poc.md)
 >
 > **Prerequisites:** None - this is the starting document
 >
 > **Related Documents:**
-> - [Architecture Planning](6-architecture_planning.md) - Expands on deployment and architecture decisions
-> - [Database & Storage Planning](10-database_and_storage_planning.md) - Details database requirements
-> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Details security requirements
-> - [Performance & Optimization](16-performance_and_optimization_planning.md) - Details performance requirements
+> - [Technology Selection & POC](2-technology_selection_and_poc.md) - Technology stack and proof of concept decisions
+> - [Architecture Planning](6-architecture_planning.md) - Translates requirements into technical architecture
+> - [Database & Storage Planning](10-database_and_storage_planning.md) - Database requirements and storage strategy
+> - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Security and compliance requirements
 
 ---
 

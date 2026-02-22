@@ -1,8 +1,8 @@
 # Final Validations
 
-> **Navigation:** [Home](README.md) | Previous: [Performance & Optimization](16-performance_and_optimization_planning.md) | Next: [Launch Checklist](20-launch_checklist.md)
+> **Navigation:** [Home](README.md) | Previous: [UAT & Pilot](17-uat_and_pilot.md) | Next: [End User Training & Change Management](19-end_user_training_and_change_management.md)
 >
-> **Prerequisites:** Complete all previous documents (1-11) before final validations
+> **Prerequisites:** Complete [UAT & Pilot](17-uat_and_pilot.md) and all prior planning documents
 >
 > **Related Documents:**
 > - [Security & Compliance Planning](4-security_and_compliance_planning.md) - Security requirements being validated
@@ -11,8 +11,6 @@
 > - [Launch Checklist](20-launch_checklist.md) - Final launch preparation
 
 ---
-
-## 1. Final Validations Requirements Gathering
 
 ## 1. Security Validation
 

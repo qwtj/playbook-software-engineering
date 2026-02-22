@@ -1,11 +1,12 @@
-# Decommissioning & Retirement (End of Life)
+# Decommissioning & Retirement
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](README.md) | Previous: [Post-Launch Operations](21-post_launch_operations.md)
 >
-> **Prerequisites:** New system operational (if replacing) or Product Decision to Sunset
+> **Prerequisites:** System operational and retirement decision made
 >
 > **Related Documents:**
-> - [Data Governance & Strategy](3-data_governance_and_strategy.md)
+> - [Data Governance & Strategy](3-data_governance_and_strategy.md) - Data archiving and sanitization policies
+> - [Post-Launch Operations](21-post_launch_operations.md) - Current operational procedures to terminate
 
 ---
 

@@ -12,8 +12,6 @@
 
 ---
 
-## 1. High-Level Requirements Gathering
-
 ## 1. Project Overview
 - What is the primary business objective?
 - Who are the key stakeholders and end users?

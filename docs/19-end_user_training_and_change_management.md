@@ -1,12 +1,13 @@
-# End-User Training & Change Management
+# End User Training & Change Management
 
-> **Navigation:** [Home](README.md)
+> **Navigation:** [Home](README.md) | Previous: [Final Validations](18-final_validations.md) | Next: [Launch Checklist](20-launch_checklist.md)
 >
-> **Prerequisites:** UAT Completed
+> **Prerequisites:** Complete [UAT & Pilot](17-uat_and_pilot.md) and [Final Validations](18-final_validations.md)
 >
 > **Related Documents:**
-> - [Launch Checklist](20-launch_checklist.md)
-> - [Post-Launch Operations](21-post_launch_operations.md)
+> - [UAT & Pilot](17-uat_and_pilot.md) - User acceptance testing completion
+> - [Launch Checklist](20-launch_checklist.md) - Pre-launch training verification
+> - [Post-Launch Operations](21-post_launch_operations.md) - Ongoing support requirements
 
 ---
 

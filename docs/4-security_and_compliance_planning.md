@@ -1,14 +1,14 @@
-# Security and Compliance Planning
+# Security & Compliance Planning
 
-> **Navigation:** [Home](README.md) | Previous: [Networking & Load Balancing](11-networking_and_load_balancing.md) | Next: [Observability Stack Planning](12-observability_stack_planning.md)
+> **Navigation:** [Home](README.md) | Previous: [Data Governance & Strategy](3-data_governance_and_strategy.md) | Next: [Testing Strategy](5-testing_strategy.md)
 >
-> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) (section 4 Security) and [Infrastructure Guidelines](8-infrastructure_guidelines.md)
+> **Prerequisites:** Complete [Requirements Gathering](1-requirements_gathering.md) (section 4 Security) and [Data Governance & Strategy](3-data_governance_and_strategy.md)
 >
 > **Related Documents:**
 > - [Requirements Gathering](1-requirements_gathering.md) - Initial security and compliance requirements
-> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - IAM and security considerations
-> - [Observability Stack Planning](12-observability_stack_planning.md) - Security monitoring and logging
-> - [Final Validations](18-final_validations.md) - Security and compliance validation
+> - [Data Governance & Strategy](3-data_governance_and_strategy.md) - Data classification and governance framework
+> - [Infrastructure Guidelines](8-infrastructure_guidelines.md) - Security implementation in infrastructure
+> - [Testing Strategy](5-testing_strategy.md) - Security testing requirements
 
 ---
 
